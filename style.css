@@ -1,0 +1,223 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, sans-serif;
+}
+
+body {
+    background: #f5f5f5;
+    padding: 20px;
+}
+
+.app {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 28px;
+    margin-bottom: 15px;
+    color: #1a1a2e;
+}
+
+.controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.controls input,
+.controls select {
+    padding: 10px 12px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    font-size: 16px;
+    outline: none;
+    background: white;
+    flex: 1;
+    min-width: 150px;
+}
+
+.controls select {
+    flex: 0.5;
+    cursor: pointer;
+}
+
+.controls input:focus,
+.controls select:focus {
+    border-color: #4a6cf7;
+}
+
+#bookList {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.book-card {
+    background: white;
+    padding: 16px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+    cursor: pointer;
+    transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.book-card:active {
+    transform: scale(0.98);
+}
+
+.book-info {
+    flex: 1;
+    min-width: 150px;
+}
+
+.book-info h3 {
+    font-size: 18px;
+    color: #1a1a2e;
+    margin-bottom: 4px;
+}
+
+.book-info p {
+    font-size: 14px;
+    color: #555;
+}
+
+.book-actions {
+    flex-shrink: 0;
+}
+
+.detail-btn {
+    background: #4a6cf7;
+    color: white;
+    border: none;
+    padding: 6px 16px;
+    border-radius: 20px;
+    font-size: 13px;
+    cursor: pointer;
+    transition: background 0.2s, transform 0.1s;
+}
+
+.detail-btn:hover {
+    background: #3458d6;
+}
+
+.detail-btn:active {
+    transform: scale(0.95);
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    z-index: 1000;
+}
+
+.modal.show {
+    display: flex;
+}
+
+.modal-content {
+    background: white;
+    border-radius: 16px;
+    max-width: 500px;
+    width: 100%;
+    padding: 24px;
+    position: relative;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+    max-height: 90vh;
+    overflow-y: auto;
+}
+
+.close {
+    position: absolute;
+    top: 12px;
+    right: 18px;
+    font-size: 28px;
+    color: #888;
+    cursor: pointer;
+    transition: color 0.2s;
+}
+
+.close:hover {
+    color: #222;
+}
+
+.modal-body {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+}
+
+.modal-image {
+    width: 120px;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 8px;
+    background: #eee;
+    flex-shrink: 0;
+}
+
+.modal-info {
+    flex: 1;
+}
+
+.modal-info h2 {
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 8px;
+    color: #1a1a2e;
+}
+
+.modal-info p {
+    font-size: 16px;
+    color: #444;
+    margin: 4px 0;
+}
+
+@media (max-width: 600px) {
+    body {
+        padding: 12px;
+    }
+    .controls {
+        flex-direction: column;
+    }
+    .controls select {
+        flex: 1;
+    }
+    .book-card {
+        flex-direction: column;
+        align-items: stretch;
+        padding: 14px;
+    }
+    .book-actions {
+        text-align: right;
+    }
+    .modal-body {
+        flex-direction: column;
+        text-align: center;
+    }
+    .modal-image {
+        width: 100px;
+        height: 140px;
+    }
+    .modal-content {
+        padding: 16px;
+        margin: 10px;
+    }
+}

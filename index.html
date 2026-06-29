@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Книги</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app">
+        <h1>📚 Книги</h1>
+
+        <div class="controls">
+            <input type="text" id="search" placeholder="🔍 Поиск по названию или автору...">
+            <select id="sort">
+                <option value="default">📌 Без сортировки</option>
+                <option value="year-asc">📅 Год (по возрастанию)</option>
+                <option value="year-desc">📅 Год (по убыванию)</option>
+                <option value="author-asc">временно не работает</option>
+                <option value="author-desc">временно не работает</option>
+                <option value="title-asc">📖 Автор (А–Я)</option>
+                <option value="title-desc">📖 Автор (Я–А)</option>
+            </select>
+        </div>
+
+        <div id="bookList"></div>
+    </div>
+
+    <!-- Модальное окно -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="modal-body">
+                <img id="modalImage" src="" alt="Обложка книги" class="modal-image">
+                <div class="modal-info">
+                    <h2 id="modalTitle"></h2>
+                    <p><strong>Автор:</strong> <span id="modalAuthor"></span></p>
+                    <p><strong>Год:</strong> <span id="modalYear"></span></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
