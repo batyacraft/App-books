@@ -134,7 +134,7 @@ h1 {
 .modal-content {
     background: white;
     border-radius: 16px;
-    max-width: 500px;
+    max-width: 550px;
     width: 100%;
     padding: 24px;
     position: relative;
@@ -164,13 +164,19 @@ h1 {
     align-items: center;
 }
 
+.modal-images {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    flex-shrink: 0;
+}
+
 .modal-image {
     width: 120px;
     height: 160px;
     object-fit: cover;
     border-radius: 8px;
     background: #eee;
-    flex-shrink: 0;
 }
 
 .modal-info {
@@ -211,6 +217,11 @@ h1 {
     .modal-body {
         flex-direction: column;
         text-align: center;
+    }
+    .modal-images {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
     }
     .modal-image {
         width: 100px;

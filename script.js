@@ -10,6 +10,7 @@ fetch('books.json')
         document.getElementById('bookList').innerHTML = '<p>❌ Не загрузились данные</p>';
     });
 
+// ===== СОРТИРОВКА =====
 function sortBooks(list, sortType) {
     const sorted = [...list];
     switch (sortType) {
@@ -30,6 +31,7 @@ function sortBooks(list, sortType) {
     }
 }
 
+// ===== ОТРИСОВКА =====
 function render(list) {
     const sortType = document.getElementById('sort').value;
     const sorted = sortBooks(list, sortType);
@@ -72,23 +74,31 @@ function render(list) {
     });
 }
 
+// ===== ОТКРЫТИЕ МОДАЛКИ С МАССИВОМ ИЗОБРАЖЕНИЙ =====
 function openModal(book) {
     document.getElementById('modalTitle').textContent = book.title;
     document.getElementById('modalAuthor').textContent = book.author;
     document.getElementById('modalYear').textContent = book.year || '—';
 
-    const img = document.getElementById('modalImage');
-    if (book.imageUrl && book.imageUrl !== '') {
-        img.src = book.imageUrl;
-        img.style.display = 'block';
+    const container = document.getElementById('modalImages');
+    container.innerHTML = '';
+
+    if (book.images && book.images.length > 0) {
+        book.images.forEach(url => {
+            const img = document.createElement('img');
+            img.src = url;
+            img.alt = 'Обложка книги';
+            img.className = 'modal-image';
+            container.appendChild(img);
+        });
     } else {
-        img.src = '';
-        img.style.display = 'none';
+        container.innerHTML = '<p style="color:#888;font-size:14px;">📷 Нет фото</p>';
     }
 
     document.getElementById('modal').classList.add('show');
 }
 
+// ===== ЗАКРЫТИЕ МОДАЛКИ =====
 document.querySelector('.close').onclick = () => {
     document.getElementById('modal').classList.remove('show');
 };
@@ -98,6 +108,7 @@ document.getElementById('modal').onclick = (e) => {
     }
 };
 
+// ===== ПОИСК + СОРТИРОВКА =====
 function update() {
     const q = document.getElementById('search').value.toLowerCase();
     const filtered = books.filter(b =>
