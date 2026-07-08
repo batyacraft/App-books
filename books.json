@@ -6,16 +6,22 @@
     "images": ["./images/image001.png", "./images/image002.png"]
   },
   {
+    "title": "—",
+    "author": "«Азиатская Россия» 3 тома + Атлас ",
+    "year": "—",
+    "images": ["./images/image003.png", "./images/image004.png"]
+  },
+  {
     "title": "Грибоедов А. С.",
     "author": "Академическая библиотека русских писателей ",
     "year": "—",
-    "images": ["./images/image003.png", "./images/image004.png"]
+    "images": ["./images/image005.png", "./images/image006.png"]
   },
   {
     "title": "Кольцов",
     "author": "Академическая библиотека русских писателей ",
     "year": "—",
-    "images": ["./images/image005.png", "./images/image006.png"]
+    "images": []
   },
   {
     "title": "Аксаков С. Т. ",
