@@ -81,61 +81,79 @@
     "title": "Апухтин А. Н. ",
     "author": "«Сочинения» 1905 год",
     "year": "1905",
-    "imageUrl": ""
+    "images": ["./images/image024.png", "./images/image025.png"]
   },
   {
     "title": "Ариост ",
     "author": "«Неистовый Роланд»",
     "year": "—",
-    "imageUrl": ""
+    "images": ["./images/image026.png", "./images/image027.png"]
   },
   {
     "title": "Арсеньев К. К.",
     "author": " «Критические этюды по русской литературе» 1888 год",
     "year": "1888",
-    "imageUrl": ""
+    "images": ["./images/image028.png", "./images/image029.png"]
   },
   {
     "title": "Потоцкий",
     "author": "«Артиллерийские снаряды и орудия» Лекции Потоцкого 1887 год",
     "year": "1887",
-    "imageUrl": ""
+    "images": ["./images/image030.png", "./images/image031.png"]
+  },
+  {
+    "title": "Потоцкий",
+    "author": "«Атлас Маркса» Большой всемирный настольный",
+    "year": "1910",
+    "images": ["./images/image032.png"]
   },
   {
     "title": "Абозин И. И. ",
     "author": "«Птицеводство. Птичий двор в русских хозяйствах»",
     "year": "1895",
-    "imageUrl": ""
+    "images": ["./images/image033.png", "./images/image034.png"]
+  },
+  {
+    "title": "Абозин И. И. ",
+    "author": "«Агроправила по культуре виноградной лозы»",
+    "year": "1938",
+    "images": ["./images/image035.png"]
   },
   {
     "title": "Бергер Арнольд",
     "author": " «Культурные задачи реформации»",
     "year": "1901",
-    "imageUrl": ""
+    "imageUrl": ["./images/image036.png", "./images/image037.png"]
+  },
+  {
+    "title": "Бергер Арнольд",
+    "author": "«Бесы в Париже» Париж и парижане",
+    "year": "1846",
+    "imageUrl": ["./images/image038.png", "./images/image039.png"]
   },
   {
     "title": "Бьернстьерне Бьернсона ",
     "author": "«Полное собрание сочинений»",
     "year": "1900",
-    "imageUrl": ""
+    "imageUrl": ["./images/image040.png", "./images/image041.png"]
   },
   {
     "title": "Блос Вильгельм",
     "author": " «История германской революции 1848 года»",
     "year": "1906",
-    "imageUrl": ""
+    "imageUrl": ["./images/image042.png", "./images/image043.png"]
   },
   {
     "title": "Барсов Н. П. ",
     "author": "«Очерки русской исторической географии» 1885 год",
     "year": "1885",
-    "imageUrl": ""
+    "imageUrl": ["./images/image044.png", "./images/image045.png"]
   },
   {
     "title": "Бецольд Фридрих фон ",
     "author": "«История реформации в Германии» в 2-х томах 1900 год",
     "year": "1900",
-    "imageUrl": ""
+    "imageUrl": ["./images/image046.png", "./images/image047.png"]
   },
   {
     "title": "Бородкин М. ",
