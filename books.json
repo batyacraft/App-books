@@ -57,25 +57,25 @@
     "title": "Андреев В.",
     "author": " «Исторические очерки»",
     "year": "1877",
-    "imageUrl": ["./images/image016.png", "./images/image017.png"]
+    "images": ["./images/image016.png", "./images/image017.png"]
   },
   {
     "title": "Андреев Л.",
     "author": "«Полное собрание сочинений» 8 томов в 4-х книгах",
     "year": "—",
-    "imageUrl": ["./images/image018.png", "./images/image019.png"]
+    "images": ["./images/image018.png", "./images/image019.png"]
   },
   {
     "title": "Андреевич В. К.",
     "author": "История Сибири»",
     "year": "1889",
-    "imageUrl": ["./images/image020.png", "./images/image021.png"]
+    "images": ["./images/image020.png", "./images/image021.png"]
   },
   {
     "title": "Аппельрот В.",
     "author": "«Великие греческие ваятели. Пакситель»",
     "year": "1893",
-    "imageUrl": ["./images/image022.png", "./images/image023.png"]
+    "images": ["./images/image022.png", "./images/image023.png"]
   },
   {
     "title": "Апухтин А. Н. ",
