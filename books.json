@@ -24,40 +24,58 @@
     "images": []
   },
   {
+    "title": "Кольцов",
+    "author": "«Александр I» Опыт исторического исследования. 2 тома. ",
+    "year": "1912",
+    "images": ["./images/image007.png", "./images/image008.png"]
+  },
+  {
     "title": "Аксаков С. Т. ",
-    "author": "«Записки ружейного охотника Оренбургской губернии\"",
+    "author": "«Записки ружейного охотника Оренбургской губернии ",
     "year": "1909",
-    "images": []
+    "images": ["./images/image009.png"]
+  },
+  {
+    "title": "Аксаков С. Т. ",
+    "author": "«Америка» Иллюстрированный географический сборник ",
+    "year": "1905",
+    "images": ["./images/image010.png", "./images/image011.png"]
   },
   {
     "title": "Амфитеатров А. В.",
-    "author": " «Курганы» ",
+    "author": "«Курганы» ",
     "year": "1905",
-    "imageUrl": ""
+    "images": ["./images/image012.png", "./images/image013.png"]
+  },
+  {
+    "title": "Амфитеатров А. В.",
+    "author": "«Английские моралисты XVII В.» Рефома моральных наук и основание научной этики в Англии. ",
+    "year": "1880",
+    "images": ["./images/image014.png", "./images/image015.png"]
   },
   {
     "title": "Андреев В.",
     "author": " «Исторические очерки»",
     "year": "1877",
-    "imageUrl": ""
+    "imageUrl": ["./images/image016.png", "./images/image017.png"]
   },
   {
     "title": "Андреев Л.",
     "author": "«Полное собрание сочинений» 8 томов в 4-х книгах",
     "year": "—",
-    "imageUrl": ""
+    "imageUrl": ["./images/image018.png", "./images/image019.png"]
   },
   {
     "title": "Андреевич В. К.",
     "author": "История Сибири»",
     "year": "1889",
-    "imageUrl": ""
+    "imageUrl": ["./images/image020.png", "./images/image021.png"]
   },
   {
     "title": "Аппельрот В.",
     "author": "«Великие греческие ваятели. Пакситель»",
     "year": "1893",
-    "imageUrl": ""
+    "imageUrl": ["./images/image022.png", "./images/image023.png"]
   },
   {
     "title": "Апухтин А. Н. ",
