@@ -123,37 +123,37 @@
     "title": "Бергер Арнольд",
     "author": " «Культурные задачи реформации»",
     "year": "1901",
-    "imageUrl": ["./images/image036.png", "./images/image037.png"]
+    "images": ["./images/image036.png", "./images/image037.png"]
   },
   {
     "title": "Бергер Арнольд",
     "author": "«Бесы в Париже» Париж и парижане",
     "year": "1846",
-    "imageUrl": ["./images/image038.png", "./images/image039.png"]
+    "images": ["./images/image038.png", "./images/image039.png"]
   },
   {
     "title": "Бьернстьерне Бьернсона ",
     "author": "«Полное собрание сочинений»",
     "year": "1900",
-    "imageUrl": ["./images/image040.png", "./images/image041.png"]
+    "images": ["./images/image040.png", "./images/image041.png"]
   },
   {
     "title": "Блос Вильгельм",
     "author": " «История германской революции 1848 года»",
     "year": "1906",
-    "imageUrl": ["./images/image042.png", "./images/image043.png"]
+    "images": ["./images/image042.png", "./images/image043.png"]
   },
   {
     "title": "Барсов Н. П. ",
     "author": "«Очерки русской исторической географии» 1885 год",
     "year": "1885",
-    "imageUrl": ["./images/image044.png", "./images/image045.png"]
+    "images": ["./images/image044.png", "./images/image045.png"]
   },
   {
     "title": "Бецольд Фридрих фон ",
     "author": "«История реформации в Германии» в 2-х томах 1900 год",
     "year": "1900",
-    "imageUrl": ["./images/image046.png", "./images/image047.png"]
+    "images": ["./images/image046.png", "./images/image047.png"]
   },
   {
     "title": "Бородкин М. ",
