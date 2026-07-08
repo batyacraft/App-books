@@ -3,7 +3,7 @@
     "title": "Адамс Г. Б.",
     "author": "«Книга для женщин»",
     "year": "1899",
-    "images": ["https://drive.google.com/uc?export=view&id=1DLHDuIQ8BrSv9FXJivLgKlNak7GnugTw/", "https://disk.yandex.ru/i/e9fbchpjvaJcVQ?direct=1"]
+    "images": ["./images/image001.png", "./images/image002.png"]
   },
   {
     "title": "Грибоедов А. С.",
@@ -15,13 +15,13 @@
     "title": "Кольцов",
     "author": "Академическая библиотека русских писателей ",
     "year": "—",
-    "imageUrl": []
+    "images": ["./images/image005.png", "./images/image006.png"]
   },
   {
     "title": "Аксаков С. Т. ",
     "author": "«Записки ружейного охотника Оренбургской губернии\"",
     "year": "1909",
-    "imageUrl": ""
+    "images": []
   },
   {
     "title": "Амфитеатров А. В.",
