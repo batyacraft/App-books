@@ -29,7 +29,7 @@
     "images": []
   },
   {
-    "title": "Кольцов",
+    "title": "—",
     "author": "«Александр I» Опыт исторического исследования. 2 тома. ",
     "year": "1912",
     "count": "2",
@@ -43,7 +43,7 @@
     "images": ["./images/image009.png"]
   },
   {
-    "title": "Аксаков С. Т. ",
+    "title": "—",
     "author": "«Америка» Иллюстрированный географический сборник ",
     "year": "1905",
     "count": "1",
@@ -57,7 +57,7 @@
     "images": ["./images/image012.png", "./images/image013.png"]
   },
   {
-    "title": "Амфитеатров А. В.",
+    "title": "—",
     "author": "«Английские моралисты XVII В.» Рефома моральных наук и основание научной этики в Англии. ",
     "year": "1880",
     "count": "1",
@@ -67,102 +67,119 @@
     "title": "Андреев В.",
     "author": " «Исторические очерки»",
     "year": "1877",
+    "count": "1",
     "images": ["./images/image016.png", "./images/image017.png"]
   },
   {
     "title": "Андреев Л.",
     "author": "«Полное собрание сочинений» 8 томов в 4-х книгах",
     "year": "—",
+    "count": "4",
     "images": ["./images/image018.png", "./images/image019.png"]
   },
   {
     "title": "Андреевич В. К.",
     "author": "История Сибири»",
     "year": "1889",
+    "count": "1",
     "images": ["./images/image020.png", "./images/image021.png"]
   },
   {
     "title": "Аппельрот В.",
     "author": "«Великие греческие ваятели. Пакситель»",
     "year": "1893",
+    "count": "1",
     "images": ["./images/image022.png", "./images/image023.png"]
   },
   {
     "title": "Апухтин А. Н. ",
     "author": "«Сочинения» 1905 год",
     "year": "1905",
+    "count": "1",
     "images": ["./images/image024.png", "./images/image025.png"]
   },
   {
     "title": "Ариост ",
     "author": "«Неистовый Роланд»",
     "year": "—",
+    "count": "1",
     "images": ["./images/image026.png", "./images/image027.png"]
   },
   {
     "title": "Арсеньев К. К.",
     "author": " «Критические этюды по русской литературе» 1888 год",
     "year": "1888",
+    "count": "1",
     "images": ["./images/image028.png", "./images/image029.png"]
   },
   {
     "title": "Потоцкий",
     "author": "«Артиллерийские снаряды и орудия» Лекции Потоцкого 1887 год",
     "year": "1887",
+    "count": "1",
     "images": ["./images/image030.png", "./images/image031.png"]
   },
   {
-    "title": "Потоцкий",
+    "title": "—",
     "author": "«Атлас Маркса» Большой всемирный настольный",
     "year": "1910",
+    "count": "1",
     "images": ["./images/image032.png"]
   },
   {
     "title": "Абозин И. И. ",
     "author": "«Птицеводство. Птичий двор в русских хозяйствах»",
     "year": "1895",
+    "count": "1",
     "images": ["./images/image033.png", "./images/image034.png"]
   },
   {
-    "title": "Абозин И. И. ",
+    "title": "—",
     "author": "«Агроправила по культуре виноградной лозы»",
     "year": "1938",
+    "count": "1",
     "images": ["./images/image035.png"]
   },
   {
     "title": "Бергер Арнольд",
     "author": " «Культурные задачи реформации»",
     "year": "1901",
+    "count": "1",
     "images": ["./images/image036.png", "./images/image037.png"]
   },
   {
-    "title": "Бергер Арнольд",
+    "title": "—",
     "author": "«Бесы в Париже» Париж и парижане",
     "year": "1846",
+    "count": "1",
     "images": ["./images/image038.png", "./images/image039.png"]
   },
   {
     "title": "Бьернстьерне Бьернсона ",
     "author": "«Полное собрание сочинений»",
     "year": "1900",
+    "count": "1",
     "images": ["./images/image040.png", "./images/image041.png"]
   },
   {
     "title": "Блос Вильгельм",
     "author": " «История германской революции 1848 года»",
     "year": "1906",
+    "count": "1",
     "images": ["./images/image042.png", "./images/image043.png"]
   },
   {
     "title": "Барсов Н. П. ",
     "author": "«Очерки русской исторической географии» 1885 год",
     "year": "1885",
+    "count": "1",
     "images": ["./images/image044.png", "./images/image045.png"]
   },
   {
     "title": "Бецольд Фридрих фон ",
     "author": "«История реформации в Германии» в 2-х томах 1900 год",
     "year": "1900",
+    "count": "2",
     "images": ["./images/image046.png", "./images/image047.png"]
   },
   {
