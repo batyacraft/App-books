@@ -2,14 +2,14 @@
   {
     "title": "Адамс Г. Б.",
     "author": "«Книга для женщин»",
-    "count": 1,
+    "count": "1",
     "year": "1899",
     "images": ["./images/image001.png", "./images/image002.png"]
   },
   {
     "title": "—",
     "author": "«Азиатская Россия» 3 тома + Атлас ",
-    "count": 4,
+    "count": "4",
     "year": "—",
     "images": ["./images/image003.png", "./images/image004.png"]
   },
