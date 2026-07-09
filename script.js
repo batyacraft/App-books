@@ -75,11 +75,11 @@ function render(list) {
 }
 
 // ===== ОТКРЫТИЕ МОДАЛКИ С МАССИВОМ ИЗОБРАЖЕНИЙ =====
-function openModal(book) {
-    document.getElementById('modalTitle').textContent = book.title;
-    document.getElementById('modalAuthor').textContent = book.author;
+function openModal(book) { 
+    document.getElementById('modalTitle').textContent = book.title || '—';
+    document.getElementById('modalAuthor').textContent = book.author || '—';
     document.getElementById('modalCount').textContent = book.count || '?';
-    document.getElementById('modalPay').textContent = book.pay;
+    document.getElementById('modalPay').textContent = book.pay || '—';  // Добавить проверку
     document.getElementById('modalLanguage').textContent = book.language || 'Ru';
     document.getElementById('modalYear').textContent = book.year || '—';
 
