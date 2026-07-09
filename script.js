@@ -80,7 +80,7 @@ function openModal(book) {
     document.getElementById('modalAuthor').textContent = book.author;
     document.getElementById('modalCount').textContent = book.count || '?';
     document.getElementById('modalPay').textContent = book.pay;
-    document.getElementById('modalLanguage').textContent = book.language || 'Рус';
+    document.getElementById('modalLanguage').textContent = book.language || 'Ru';
     document.getElementById('modalYear').textContent = book.year || '—';
 
     const container = document.getElementById('modalImages');
