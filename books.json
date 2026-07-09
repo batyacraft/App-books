@@ -25,36 +25,42 @@
     "title": "Кольцов",
     "author": "Академическая библиотека русских писателей ",
     "year": "—",
+    "count": "1",
     "images": []
   },
   {
     "title": "Кольцов",
     "author": "«Александр I» Опыт исторического исследования. 2 тома. ",
     "year": "1912",
+    "count": "2",
     "images": ["./images/image007.png", "./images/image008.png"]
   },
   {
     "title": "Аксаков С. Т. ",
     "author": "«Записки ружейного охотника Оренбургской губернии ",
     "year": "1909",
+    "count": "1",
     "images": ["./images/image009.png"]
   },
   {
     "title": "Аксаков С. Т. ",
     "author": "«Америка» Иллюстрированный географический сборник ",
     "year": "1905",
+    "count": "1",
     "images": ["./images/image010.png", "./images/image011.png"]
   },
   {
     "title": "Амфитеатров А. В.",
     "author": "«Курганы» ",
     "year": "1905",
+    "count": "1",
     "images": ["./images/image012.png", "./images/image013.png"]
   },
   {
     "title": "Амфитеатров А. В.",
     "author": "«Английские моралисты XVII В.» Рефома моральных наук и основание научной этики в Англии. ",
     "year": "1880",
+    "count": "1",
     "images": ["./images/image014.png", "./images/image015.png"]
   },
   {
