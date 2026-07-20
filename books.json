@@ -5,6 +5,7 @@
     "count": "1",
     "pay": "$", 
     "shelf": "1",
+    "wardrobe": "1",  
     "year": "1899",
     "images": ["./images/image001.png", "./images/image002.png"]
   },
