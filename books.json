@@ -3,25 +3,34 @@
     "title": "Адамс Г. Б.",
     "author": "«Книга для женщин»",
     "count": "1",
-    "pay": "$", 
+    "pay": "$",
     "shelf": "1",
-    "wardrobe": "1",  
+    "wardrobe": "1",
     "year": "1899",
-    "images": ["./images/image001.png", "./images/image002.png"]
+    "images": [
+      "./images/image001.png",
+      "./images/image002.png"
+    ]
   },
   {
     "title": "—",
     "author": "«Азиатская Россия» 3 тома + Атлас ",
     "count": "4",
     "year": "—",
-    "images": ["./images/image003.png", "./images/image004.png"]
+    "images": [
+      "./images/image003.png",
+      "./images/image004.png"
+    ]
   },
   {
     "title": "Грибоедов А. С.",
     "author": "Академическая библиотека русских писателей ",
     "year": "—",
     "count": "3",
-    "images": ["./images/image005.png", "./images/image006.png"]
+    "images": [
+      "./images/image005.png",
+      "./images/image006.png"
+    ]
   },
   {
     "title": "Кольцов",
@@ -35,2331 +44,3453 @@
     "author": "«Александр I» Опыт исторического исследования. 2 тома. ",
     "year": "1912",
     "count": "2",
-    "images": ["./images/image007.png", "./images/image008.png"]
+    "images": [
+      "./images/image007.png",
+      "./images/image008.png"
+    ]
   },
   {
     "title": "Аксаков С. Т. ",
     "author": "«Записки ружейного охотника Оренбургской губернии ",
     "year": "1909",
     "count": "1",
-    "images": ["./images/image009.png"]
+    "images": [
+      "./images/image009.png"
+    ]
   },
   {
     "title": "—",
     "author": "«Америка» Иллюстрированный географический сборник ",
     "year": "1905",
     "count": "1",
-    "images": ["./images/image010.png", "./images/image011.png"]
+    "images": [
+      "./images/image010.png",
+      "./images/image011.png"
+    ]
   },
   {
     "title": "Амфитеатров А. В.",
     "author": "«Курганы» ",
     "year": "1905",
     "count": "1",
-    "images": ["./images/image012.png", "./images/image013.png"]
+    "images": [
+      "./images/image012.png",
+      "./images/image013.png"
+    ]
   },
   {
     "title": "—",
     "author": "«Английские моралисты XVII В.» Рефома моральных наук и основание научной этики в Англии. ",
     "year": "1880",
     "count": "1",
-    "images": ["./images/image014.png", "./images/image015.png"]
+    "images": [
+      "./images/image014.png",
+      "./images/image015.png"
+    ]
   },
   {
     "title": "Андреев В.",
     "author": " «Исторические очерки»",
     "year": "1877",
     "count": "1",
-    "images": ["./images/image016.png", "./images/image017.png"]
+    "images": [
+      "./images/image016.png",
+      "./images/image017.png"
+    ]
   },
   {
     "title": "Андреев Л.",
     "author": "«Полное собрание сочинений» 8 томов в 4-х книгах",
     "year": "—",
     "count": "4",
-    "images": ["./images/image018.png", "./images/image019.png"]
+    "images": [
+      "./images/image018.png",
+      "./images/image019.png"
+    ]
   },
   {
     "title": "Андреевич В. К.",
     "author": "История Сибири»",
     "year": "1889",
     "count": "1",
-    "images": ["./images/image020.png", "./images/image021.png"]
+    "images": [
+      "./images/image020.png",
+      "./images/image021.png"
+    ]
   },
   {
     "title": "Аппельрот В.",
     "author": "«Великие греческие ваятели. Пакситель»",
     "year": "1893",
     "count": "1",
-    "images": ["./images/image022.png", "./images/image023.png"]
+    "images": [
+      "./images/image022.png",
+      "./images/image023.png"
+    ]
   },
   {
     "title": "Апухтин А. Н. ",
     "author": "«Сочинения» 1905 год",
     "year": "1905",
     "count": "1",
-    "images": ["./images/image024.png", "./images/image025.png"]
+    "images": [
+      "./images/image024.png",
+      "./images/image025.png"
+    ]
   },
   {
     "title": "Ариост ",
     "author": "«Неистовый Роланд»",
     "year": "—",
     "count": "1",
-    "images": ["./images/image026.png", "./images/image027.png"]
+    "images": [
+      "./images/image026.png",
+      "./images/image027.png"
+    ]
   },
   {
     "title": "Арсеньев К. К.",
     "author": " «Критические этюды по русской литературе» 1888 год",
     "year": "1888",
     "count": "1",
-    "images": ["./images/image028.png", "./images/image029.png"]
+    "images": [
+      "./images/image028.png",
+      "./images/image029.png"
+    ]
   },
   {
     "title": "Потоцкий",
     "author": "«Артиллерийские снаряды и орудия» Лекции Потоцкого 1887 год",
     "year": "1887",
     "count": "1",
-    "images": ["./images/image030.png", "./images/image031.png"]
+    "images": [
+      "./images/image030.png",
+      "./images/image031.png"
+    ]
   },
   {
     "title": "—",
     "author": "«Атлас Маркса» Большой всемирный настольный",
     "year": "1910",
     "count": "1",
-    "images": ["./images/image032.png"]
+    "images": [
+      "./images/image032.png"
+    ]
   },
   {
     "title": "Абозин И. И. ",
     "author": "«Птицеводство. Птичий двор в русских хозяйствах»",
     "year": "1895",
     "count": "1",
-    "images": ["./images/image033.png", "./images/image034.png"]
+    "images": [
+      "./images/image033.png",
+      "./images/image034.png"
+    ]
   },
   {
     "title": "—",
     "author": "«Агроправила по культуре виноградной лозы»",
     "year": "1938",
     "count": "1",
-    "images": ["./images/image035.png"]
+    "images": [
+      "./images/image035.png"
+    ]
   },
   {
     "title": "Бергер Арнольд",
     "author": " «Культурные задачи реформации»",
     "year": "1901",
     "count": "1",
-    "images": ["./images/image036.png", "./images/image037.png"]
+    "images": [
+      "./images/image036.png",
+      "./images/image037.png"
+    ]
   },
   {
     "title": "—",
     "author": "«Бесы в Париже» Париж и парижане",
     "year": "1846",
     "count": "1",
-    "images": ["./images/image038.png", "./images/image039.png"]
+    "images": [
+      "./images/image038.png",
+      "./images/image039.png"
+    ]
   },
   {
     "title": "Бьернстьерне Бьернсона ",
     "author": "«Полное собрание сочинений»",
     "year": "1900",
     "count": "1",
-    "images": ["./images/image040.png", "./images/image041.png"]
+    "images": [
+      "./images/image040.png",
+      "./images/image041.png"
+    ]
   },
   {
     "title": "Блос Вильгельм",
     "author": " «История германской революции 1848 года»",
     "year": "1906",
     "count": "1",
-    "images": ["./images/image042.png", "./images/image043.png"]
+    "images": [
+      "./images/image042.png",
+      "./images/image043.png"
+    ]
   },
   {
     "title": "Барсов Н. П. ",
     "author": "«Очерки русской исторической географии» 1885 год",
     "year": "1885",
     "count": "1",
-    "images": ["./images/image044.png", "./images/image045.png"]
+    "images": [
+      "./images/image044.png",
+      "./images/image045.png"
+    ]
   },
   {
     "title": "Бецольд Фридрих фон ",
     "author": "«История реформации в Германии» в 2-х томах 1900 год",
     "year": "1900",
     "count": "2",
-    "images": ["./images/image046.png", "./images/image047.png"]
+    "images": [
+      "./images/image046.png",
+      "./images/image047.png"
+    ]
   },
   {
     "title": "Бородкин М. ",
     "author": "«История Финляндии. Время Императора Александра II» 1908 год",
     "year": "1908",
-    "imageUrl": ""
+    "images": [
+      "./images/image048.png",
+      "./images/image049.png"
+    ]
   },
   {
     "title": "Добрыв А. П. ",
     "author": "«Биографии русских писателей» составитель",
     "year": "1900",
-    "imageUrl": ""
+    "images": [
+      "./images/image050.png",
+      "./images/image051.png"
+    ]
   },
   {
     "title": "Белоголовый Н. А. ",
     "author": "«Воспоминания и другие статьи» 1897 год",
     "year": "1897",
-    "imageUrl": ""
+    "images": [
+      "./images/image052.png",
+      "./images/image053.png"
+    ]
   },
   {
     "title": "Белинский В. Г. ",
     "author": "«Собрание сочинений» в 3-х томах 1911 год",
     "year": "1911",
-    "imageUrl": ""
+    "images": [
+      "./images/image054.png",
+      "./images/image055.png"
+    ]
   },
   {
     "title": "Боккачьо Джованни",
     "author": " «Декамерон»",
     "year": "1904",
-    "imageUrl": ""
+    "images": [
+      "./images/image056.png",
+      "./images/image057.png"
+    ]
   },
   {
     "title": "Брандес Г. ",
     "author": "«Немецкая литература»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image058.png",
+      "./images/image059.png"
+    ]
   },
   {
     "title": "Боратынский",
     "author": "Боратынский. В 2-х томах 1915 год",
     "year": "1915",
-    "imageUrl": ""
+    "images": [
+      "./images/image060.png",
+      "./images/image061.png"
+    ]
   },
   {
     "title": "Буслаев Ф. И. ",
     "author": "«Мои воспоминания» 1897 год",
     "year": "1897",
-    "imageUrl": ""
+    "images": [
+      "./images/image062.png"
+    ]
   },
   {
     "title": "Болотов А. Т. ",
     "author": "«Русская старина. Приложение. Записки» в 4-х томах",
     "year": "1870",
-    "imageUrl": ""
+    "images": [
+      "./images/image063.png"
+    ]
   },
   {
     "title": "Брандес Г. ",
     "author": "«Главные течения литературы 19-го столетия» Лекции",
     "year": "1888",
-    "imageUrl": ""
+    "images": [
+      "./images/image064.png",
+      "./images/image065.png"
+    ]
   },
   {
     "title": "Булатович А. К. ",
     "author": "«С войсками Менелика II»",
     "year": "1900",
-    "imageUrl": ""
+    "images": [
+      "./images/image066.png",
+      "./images/image067.png"
+    ]
   },
   {
     "title": "Булвер-Литтон Эдуард ",
     "author": "«Кенельм Чилингли его приключения и мнения»",
     "year": "1875",
-    "imageUrl": ""
+    "images": [
+      "./images/image068.png",
+      "./images/image069.png"
+    ]
   },
   {
     "title": "Брэм, Мейер, Ранке, Ратцел ",
     "author": "«Жизнь животных. Человек. Мироздание. Народоведение» 14 книг",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image070.png",
+      "./images/image071.png"
+    ]
   },
   {
     "title": "Боборыкин П. ",
     "author": "«Столицы мира»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image072.png",
+      "./images/image073.png"
+    ]
   },
   {
     "title": "Бебель А.",
     "author": " «Женщина и социализм»",
     "year": "1904",
-    "imageUrl": ""
+    "images": [
+      "./images/image074.png"
+    ]
   },
   {
     "title": "Бакунин М. А.",
     "author": " «Письма к Герцену и Огареву»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image075.png"
+    ]
   },
   {
     "title": "Бэрд Ч.",
     "author": " «Реформация XVI века в её отношении к новому мышлению и знанию» 1897 год",
     "year": "1897",
-    "imageUrl": ""
+    "images": [
+      "./images/image076.png",
+      "./images/image077.png"
+    ]
   },
   {
     "title": "Блонский П. П.",
     "author": " «Философия Плотина»",
     "year": "1918",
-    "imageUrl": ""
+    "images": [
+      "./images/image078.png",
+      "./images/image079.png"
+    ]
   },
   {
     "title": "Барт А. ",
     "author": "«Религии Индии»",
     "year": "1897",
-    "imageUrl": ""
+    "images": [
+      "./images/image080.png",
+      "./images/image081.png"
+    ]
   },
   {
     "title": "Бородкин М. ",
     "author": "«История Финляндии» в 4-х томах",
     "year": "1910",
-    "imageUrl": ""
+    "images": [
+      "./images/image082.png",
+      "./images/image083.png"
+    ]
   },
   {
     "title": "Войслав С. Г.",
     "author": " «Горнозаводские сооружения» Лекции 1881-1882 годы",
     "year": "1882",
-    "imageUrl": ""
+    "images": [
+      "./images/image084.png",
+      "./images/image085.png"
+    ]
   },
   {
     "title": "Виппер Р.",
     "author": " «Церковь и государство в Женеве XVI века»",
     "year": "1894",
-    "imageUrl": ""
+    "images": [
+      "./images/image086.png",
+      "./images/image087.png"
+    ]
   },
   {
     "title": "Врангель А. Е. барон",
     "author": " «Воспоминания о Ф. М. Достоевском в Сибири»",
     "year": "1912",
-    "imageUrl": ""
+    "images": [
+      "./images/image088.png",
+      "./images/image089.png"
+    ]
   },
   {
     "title": "Верещагин Александр ",
     "author": "«Дома и на войне 1853-1881» Воспоминания и рассказы",
     "year": "1886",
-    "imageUrl": ""
+    "images": [
+      "./images/image090.png",
+      "./images/image091.png"
+    ]
   },
   {
     "title": "Верещагин Александр ",
     "author": "«У болгар и за границей» Воспоминания и рассказы",
     "year": "1896",
-    "imageUrl": ""
+    "images": [
+      "./images/image092.png",
+      "./images/image093.png"
+    ]
   },
   {
     "title": "Врангель К. Г.",
     "author": "«Книга о лошади» Настольная книга для каждого владельца и любителя",
     "year": "1886",
-    "imageUrl": ""
+    "images": [
+      "./images/image094.png",
+      "./images/image095.png"
+    ]
   },
   {
     "title": "Валишевский К. ",
     "author": "«Первые Романовы»",
     "year": "1911",
-    "imageUrl": ""
+    "images": [
+      "./images/image096.png",
+      "./images/image097.png"
+    ]
   },
   {
     "title": "Валишевский К. ",
     "author": "«Иван Грозный»",
     "year": "1911",
-    "imageUrl": ""
+    "images": [
+      "./images/image098.png",
+      "./images/image099.png"
+    ]
   },
   {
     "title": "Валишевский К. ",
     "author": "«Дочь Петра Великого. Елизавета I Императрица Всероссийская»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image100.png",
+      "./images/image101.png"
+    ]
   },
   {
     "title": "Валишевский К. ",
     "author": "«Вокруг трона. Екатерина II Императрица Всероссийская» ",
     "year": "1910",
-    "imageUrl": ""
+    "images": [
+      "./images/image102.png",
+      "./images/image103.png"
+    ]
   },
   {
     "title": "Вельфаин Генрих.",
     "author": " «Классическое искусство»",
     "year": "1912",
-    "imageUrl": ""
+    "images": [
+      "./images/image104.png",
+      "./images/image105.png"
+    ]
   },
   {
     "title": "Витте С. Ю. граф ",
     "author": "«Воспоминания. Царствование Николая II» в 3-х томах",
     "year": "1923",
-    "imageUrl": ""
+    "images": [
+      "./images/image106.png",
+      "./images/image107.png"
+    ]
   },
   {
     "title": "Вегнер Вильгельм",
     "author": "«Эллада. Очерки и картины Древней Греции»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image108.png",
+      "./images/image109.png"
+    ]
   },
   {
     "title": "Венгеров С. А.",
     "author": " «Очерки по истории русской литературы»",
     "year": "1907",
-    "imageUrl": ""
+    "images": [
+      "./images/image110.png",
+      "./images/image111.png"
+    ]
   },
   {
     "title": "Веселовский Алексей.",
     "author": " «Западное влияние в новой русской литературе»",
     "year": "1910",
-    "imageUrl": ""
+    "images": [
+      "./images/image112.png",
+      "./images/image113.png"
+    ]
   },
   {
     "title": "Виноградов А. К.",
     "author": " «Три цвета времени»",
     "year": "1931",
-    "imageUrl": ""
+    "images": [
+      "./images/image114.png",
+      "./images/image115.png"
+    ]
   },
   {
     "title": "Витковский В.",
     "author": " «За океан. Путевые записки»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image116.png",
+      "./images/image117.png"
+    ]
   },
   {
     "title": "Вересаев В. В. ",
     "author": "«Полное собрание сочинений» 4 тома в 2-х книгах 1913 год",
     "year": "1913",
-    "imageUrl": ""
+    "images": [
+      "./images/image118.png",
+      "./images/image119.png"
+    ]
   },
   {
     "title": "Вильрот Теодор доктор",
     "author": "«Общая патология и терапия в 50-и лекциях». Руководство для учащихся и врачей",
     "year": "1879",
-    "imageUrl": ""
+    "images": [
+      "./images/image120.png",
+      "./images/image121.png"
+    ]
   },
   {
     "title": "Валишевский К.",
     "author": " «Роман Императрицы. Екатерина II Императрица Всероссийская»",
     "year": "1908",
-    "imageUrl": ""
+    "images": [
+      "./images/image122.png",
+      "./images/image123.png"
+    ]
   },
   {
     "title": "Вересаев В. В. ",
     "author": "«Полное собрание сочинений» 4 тома в 2-х книгах",
     "year": "1913",
-    "imageUrl": ""
+    "images": [
+      "./images/image124.png",
+      "./images/image125.png"
+    ]
   },
   {
     "title": "Венгерова Зинаида",
     "author": " «Литературные характеристики» 1905 год",
     "year": "1905",
-    "imageUrl": ""
+    "images": [
+      "./images/image126.png",
+      "./images/image127.png"
+    ]
   },
   {
     "title": "Вышеславцев А. В. ",
     "author": "«Рафаэль»",
     "year": "1894",
-    "imageUrl": ""
+    "images": [
+      "./images/image128.png",
+      "./images/image129.png"
+    ]
   },
   {
     "title": "Верман К. ",
     "author": "«История искусства всех времен и народов» в 3-х томах",
     "year": "1884",
-    "imageUrl": ""
+    "images": [
+      "./images/image130.png",
+      "./images/image131.png"
+    ]
   },
   {
     "title": "Верещагин В. А. ",
     "author": "«Памяти прошлого»",
     "year": "1914",
-    "imageUrl": ""
+    "images": [
+      "./images/image132.png",
+      "./images/image133.png"
+    ]
   },
   {
     "title": "Венгерова Зинаида ",
     "author": "«Литературные характеристики»",
     "year": "1897",
-    "imageUrl": ""
+    "images": [
+      "./images/image134.png",
+      "./images/image135.png"
+    ]
   },
   {
     "title": "Витковская С. ",
     "author": "«Кругом Земли» Путевые воспоминания",
     "year": "1915",
-    "imageUrl": ""
+    "images": [
+      "./images/image136.png"
+    ]
   },
   {
     "title": "Верещагин В. А. ",
     "author": "«Русская карикатура. Орловский А.О.»",
     "year": "1913",
-    "imageUrl": ""
+    "images": [
+      "./images/image137.png",
+      "./images/image138.png"
+    ]
   },
   {
     "title": "Вегнер В. ",
     "author": "«Рим» в 2-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image139.png",
+      "./images/image140.png"
+    ]
   },
   {
     "title": "Воллэс Л. ",
     "author": "«Падение Царьграда» Исторический роман",
     "year": "1895",
-    "imageUrl": ""
+    "images": [
+      "./images/image141.png"
+    ]
   },
   {
     "title": "Валишевский К.",
     "author": " «Смутное время»",
     "year": "1911",
-    "imageUrl": ""
+    "images": [
+      "./images/image142.png",
+      "./images/image143.png"
+    ]
   },
   {
     "title": "Вессели И. Э.",
     "author": "«О распозновании и собирании гравюр. Пособие для любителей»",
     "year": "1882",
-    "imageUrl": ""
+    "images": [
+      "./images/image144.png",
+      "./images/image145.png"
+    ]
   },
   {
     "title": "Гамильтон А.",
     "author": " «Корея. История, география, политика, религия, нравы .....»",
     "year": "1904",
-    "imageUrl": ""
+    "images": [
+      "./images/image146.png",
+      "./images/image147.png"
+    ]
   },
   {
     "title": "Грабарь Игорь ",
     "author": "«История русского искусства» в 5-и томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image148.png",
+      "./images/image149.png"
+    ]
   },
   {
     "title": "Гнедич П. П. ",
     "author": "«История искусств» в 3-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image150.png"
+    ]
   },
   {
     "title": "Гнедич П. П. ",
     "author": "«История искусств с древнейших времен»",
     "year": "1885",
-    "imageUrl": ""
+    "images": [
+      "./images/image151.png"
+    ]
   },
   {
     "title": "Гофман Эдуард фон ",
     "author": "«Учебник судебной медицины»",
     "year": "1912",
-    "imageUrl": ""
+    "images": [
+      "./images/image152.png",
+      "./images/image153.png"
+    ]
   },
   {
     "title": "Гауптман Гергарт ",
     "author": "«Полное собрание сочинений» в 3-х томах 1908 год",
     "year": "1908",
-    "imageUrl": ""
+    "images": [
+      "./images/image154.png"
+    ]
   },
   {
     "title": "Горбунов И. Ф. ",
     "author": "«Сочинения» в 2-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image155.png",
+      "./images/image156.png"
+    ]
   },
   {
     "title": "Гольцеб Виктор ",
     "author": "«Государственное хозяйство во Франции XVII века»",
     "year": "1878",
-    "imageUrl": ""
+    "images": [
+      "./images/image157.png"
+    ]
   },
   {
     "title": "Гончаров И. А. ",
     "author": "«Полное собрание сочинений» в 3-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image158.png",
+      "./images/image159.png"
+    ]
   },
   {
     "title": "Грин Джон Ричард ",
     "author": "«История английского народа»      в 4-х томах ",
     "year": "1892",
-    "imageUrl": ""
+    "images": [
+      "./images/image160.png",
+      "./images/image161.png"
+    ]
   },
   {
     "title": "Гизо Франсуа Пьер Гийом «",
     "author": "История английской революции» в 3-х томах",
     "year": "1868",
-    "imageUrl": ""
+    "images": [
+      "./images/image162.png",
+      "./images/image163.png"
+    ]
   },
   {
     "title": "Гоголь Н. В. ",
     "author": "«Похождения Чичикова или Мертвые души»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image164.png",
+      "./images/image165.png"
+    ]
   },
   {
     "title": "Горбачева З.",
     "author": "«Свободный Китай»",
     "year": "1952",
-    "imageUrl": ""
+    "images": [
+      "./images/image166.png",
+      "./images/image167.png"
+    ]
   },
   {
     "title": "Гааке В. ",
     "author": "«Животный мир Европы» в 3-х томах",
     "year": "1901",
-    "imageUrl": ""
+    "images": [
+      "./images/image168.png",
+      "./images/image169.png"
+    ]
   },
   {
     "title": "Гоголь Н. В. ",
     "author": "«Письма» в 3-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image170.png",
+      "./images/image171.png"
+    ]
   },
   {
     "title": "Гаршин Всеволод",
     "author": "«Рассказы»",
     "year": "1907",
-    "imageUrl": ""
+    "images": [
+      "./images/image172.png",
+      "./images/image173.png"
+    ]
   },
   {
     "title": "Гете Иоганн Фольфганг фон ",
     "author": "«Фауст»",
     "year": "1902",
-    "imageUrl": ""
+    "images": [
+      "./images/image174.png",
+      "./images/image175.png"
+    ]
   },
   {
     "title": "Герцен А. И. ",
     "author": "«Сочинения» в 7-и томах",
     "year": "1905",
-    "imageUrl": ""
+    "images": [
+      "./images/image176.png"
+    ]
   },
   {
     "title": "Грибоедов А. С. ",
     "author": "«Горе от ума»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image177.png"
+    ]
   },
   {
     "title": "Гнедич П. П. ",
     "author": "«История искусств» в 3-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image178.png",
+      "./images/image179.png"
+    ]
   },
   {
     "title": "Гоголь Н. В. ",
     "author": "«Иллюстрированное издание сочинений» в 5-и томах",
     "year": "1902",
-    "imageUrl": ""
+    "images": [
+      "./images/image180.png",
+      "./images/image181.png"
+    ]
   },
   {
     "title": "Гребенка Е. П. ",
     "author": "«Сочинения» в 5-и томах",
     "year": "1862",
-    "imageUrl": ""
+    "images": [
+      "./images/image182.png",
+      "./images/image183.png"
+    ]
   },
   {
     "title": "Гиббон Эдуард ",
     "author": "«История упадка и разрушения Римской Империи» в 5-и томах",
     "year": "1883",
-    "imageUrl": ""
+    "images": [
+      "./images/image184.png",
+      "./images/image185.png"
+    ]
   },
   {
     "title": "Гончаров И. А. ",
     "author": "«Полное собрание сочинений»",
     "year": "1884",
-    "imageUrl": ""
+    "images": [
+      "./images/image186.png",
+      "./images/image187.png"
+    ]
   },
   {
     "title": "Глинский Б. Б. ",
     "author": "«Революционный период русской истории 1861-1881 гг.»",
     "year": "1913",
-    "imageUrl": ""
+    "images": [
+      "./images/image188.png",
+      "./images/image189.png"
+    ]
   },
   {
     "title": "Гауптман Гергарт ",
     "author": "«Полное собрание сочинений» в 2-х томах",
     "year": "1908",
-    "imageUrl": ""
+    "images": [
+      "./images/image190.png",
+      "./images/image191.png"
+    ]
   },
   {
     "title": "Гаршин Всеволод М. ",
     "author": "«Полное собрание сочинений»",
     "year": "1910",
-    "imageUrl": ""
+    "images": [
+      "./images/image192.png",
+      "./images/image193.png"
+    ]
   },
   {
     "title": "Гончаров И. А. ",
     "author": "«Полное собрание сочинений»",
     "year": "1889",
-    "imageUrl": ""
+    "images": [
+      "./images/image194.png",
+      "./images/image195.png"
+    ]
   },
   {
     "title": "Гете Иоганн Фольфганг фон ",
     "author": "«Фауст»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image196.png",
+      "./images/image197.png"
+    ]
   },
   {
     "title": "Грановский Т. Н. ",
     "author": "«Переписка» Биографический очерк в 2-х томах",
     "year": "1897",
-    "imageUrl": ""
+    "images": [
+      "./images/image198.png",
+      "./images/image199.png"
+    ]
   },
   {
     "title": "Гюнтер Конрад ",
     "author": "«Цейлон» Введение в мир тропиков",
     "year": "1914",
-    "imageUrl": ""
+    "images": [
+      "./images/image200.png",
+      "./images/image201.png"
+    ]
   },
   {
     "title": "Гофман Т. ",
     "author": "«Собрание сочинений» 8 томов в 4-х книгах",
     "year": "1896",
-    "imageUrl": ""
+    "images": [
+      "./images/image202.png",
+      "./images/image203.png"
+    ]
   },
   {
     "title": "Гаршин Всеволод М. ",
     "author": "«Первая книжка рассказов»",
     "year": "1897",
-    "imageUrl": ""
+    "images": [
+      "./images/image204.png",
+      "./images/image205.png"
+    ]
   },
   {
     "title": "Гельвальд Фр. ",
     "author": "«Естественная история племен и народов» в 2-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image206.png",
+      "./images/image207.png"
+    ]
   },
   {
     "title": "Гельвальд Фр. ",
     "author": "«Земля и её народы» в 4-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image208.png",
+      "./images/image209.png"
+    ]
   },
   {
     "title": "Глинский Б. Б. ",
     "author": "«Царские дети и их наставники»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image210.png",
+      "./images/image211.png"
+    ]
   },
   {
     "title": "Добролюбов Н. А. ",
     "author": "«Первое полное собрание сочинений» в 4-х томах 1911 год",
     "year": "1911",
-    "imageUrl": ""
+    "images": [
+      "./images/image212.png",
+      "./images/image213.png"
+    ]
   },
   {
     "title": "Диккенс Чарльз ",
     "author": "«Собрание сочинений» в 24-х томах. Мамонтов",
     "year": "1896",
-    "imageUrl": ""
+    "images": [
+      "./images/image214.png",
+      "./images/image215.png"
+    ]
   },
   {
     "title": "Додэ Альфонс ",
     "author": "«Собрание сочинений»  в 6-и томах 1894-95 годы",
     "year": "1894",
-    "imageUrl": ""
+    "images": [
+      "./images/image216.png",
+      "./images/image217.png"
+    ]
   },
   {
     "title": "Дионео (Шкловский И. В.) ",
     "author": "«Очерки современной Англии»",
     "year": "1903",
-    "imageUrl": ""
+    "images": [
+      "./images/image218.png",
+      "./images/image219.png"
+    ]
   },
   {
     "title": "Дельбрюк Ганс ",
     "author": "«История военного искусства» в 7-и томах",
     "year": "1938",
-    "imageUrl": ""
+    "images": [
+      "./images/image220.png",
+      "./images/image221.png"
+    ]
   },
   {
     "title": "Достоевский Ф. М.",
     "author": " «Полное собрание сочинений» в 12-и томах",
     "year": "1894",
-    "imageUrl": ""
+    "images": [
+      "./images/image222.png",
+      "./images/image223.png"
+    ]
   },
   {
     "title": "Даль Владимир ",
     "author": "«Толковый словарь живого Великорусского языка» в 4-х томах",
     "year": "1912",
-    "imageUrl": ""
+    "images": [
+      "./images/image224.png",
+      "./images/image225.png"
+    ]
   },
   {
     "title": "Дубинский М. ",
     "author": "«Женщина в жизни великих и знаменитых людей»",
     "year": "1900",
-    "imageUrl": ""
+    "images": [
+      "./images/image226.png",
+      "./images/image227.png"
+    ]
   },
   {
     "title": "Девет Христиан Рудольф ",
     "author": "«Борьба буров с Англией. Воспоминания генерала»",
     "year": "1903",
-    "imageUrl": ""
+    "images": [
+      "./images/image228.png",
+      "./images/image229.png"
+    ]
   },
   {
     "title": "Дарвин Чарльз ",
     "author": "«Иллюстрированное собрание сочинений» в 8-и томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image230.png",
+      "./images/image231.png"
+    ]
   },
   {
     "title": "Дионео (Шкловский И. В.)",
     "author": "«Очерки современной Англии»",
     "year": "1903",
-    "imageUrl": ""
+    "images": [
+      "./images/image232.png",
+      "./images/image233.png"
+    ]
   },
   {
     "title": "Дрэйпер Джон Уильям",
     "author": " «История умственного развития Европы»",
     "year": "1885",
-    "imageUrl": ""
+    "images": [
+      "./images/image234.png"
+    ]
   },
   {
     "title": "Джаншиев Г. А.",
     "author": "«Перл Кавказа (Боржом, АбасТуман, Зенар)» Впечатления и мысли туриста",
     "year": "1900",
-    "imageUrl": ""
+    "images": [
+      "./images/image235.png",
+      "./images/image236.png"
+    ]
   },
   {
     "title": "Даль Владимир ",
     "author": "«Полное собрание сочинений» в 10-и томах",
     "year": "1897",
-    "imageUrl": ""
+    "images": [
+      "./images/image237.png",
+      "./images/image238.png"
+    ]
   },
   {
     "title": "Денисон Джордж ",
     "author": "«История конницы» в 2-х томах с примечаниями Брикса",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image239.png",
+      "./images/image240.png"
+    ]
   },
   {
     "title": "Елисеев А. В. ",
     "author": "«По белу свету» Очерки и картины из путешествий по трем частям старого света в 4-х томах",
     "year": "1894",
-    "imageUrl": ""
+    "images": [
+      "./images/image241.png",
+      "./images/image242.png"
+    ]
   },
   {
     "title": "Елец Ю. ",
     "author": "«Император Менелик и война его с Италией»",
     "year": "1898",
-    "imageUrl": ""
+    "images": [
+      "./images/image243.png",
+      "./images/image244.png"
+    ]
   },
   {
     "title": "Евреинов Н.",
     "author": " «История телесных наказаний в России»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image245.png",
+      "./images/image246.png"
+    ]
   },
   {
     "title": "Ермолова А. ",
     "author": "«Организация полевого хозяйства» Системы полеводства",
     "year": "1879",
-    "imageUrl": ""
+    "images": [
+      "./images/image247.png",
+      "./images/image248.png"
+    ]
   },
   {
     "title": "Еллинский И. Аф.",
     "author": " «Грозное время на Руси 1606-1613 гг.» Рассказы прадеда внукам",
     "year": "1912",
-    "imageUrl": ""
+    "images": [
+      "./images/image249.png",
+      "./images/image250.png"
+    ]
   },
   {
     "title": "Кернер",
     "author": "«Жизнь растений» профессора Кернера в 2-х томах 1899 год",
     "year": "1899",
-    "imageUrl": ""
+    "images": [
+      "./images/image251.png",
+      "./images/image252.png"
+    ]
   },
   {
     "title": "Кернер",
     "author": "«Жизнь растений» профессора Кернера в 2-х томах 1899 год",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image253.png",
+      "./images/image254.png"
+    ]
   },
   {
     "title": "Жюссеран Жан Жюль ",
     "author": "«История английского народа»",
     "year": "1898",
-    "imageUrl": ""
+    "images": [
+      "./images/image255.png",
+      "./images/image256.png"
+    ]
   },
   {
     "title": "Жасминов А. граф",
     "author": "«Пипа и пуся или горе от любви»",
     "year": "1897",
-    "imageUrl": ""
+    "images": [
+      "./images/image257.png",
+      "./images/image258.png"
+    ]
   },
   {
     "title": "Жозан Эм. ",
     "author": "«Физический мир женщины» в 2-х томах",
     "year": "1899",
-    "imageUrl": ""
+    "images": [
+      "./images/image259.png",
+      "./images/image260.png"
+    ]
   },
   {
     "title": "Жуковский В. А. ",
     "author": "«Стихотворения» в 4-х томах в 2-х книгах",
     "year": "1895",
-    "imageUrl": ""
+    "images": [
+      "./images/image261.png",
+      "./images/image262.png"
+    ]
   },
   {
     "title": "Жебар Эмиль ",
     "author": "«Мистическая Италия. Начало возрождения в Италии» в 2-х книгах",
     "year": "1900",
-    "imageUrl": ""
+    "images": [
+      "./images/image263.png",
+      "./images/image264.png"
+    ]
   },
   {
     "title": "Жук В. Н. ",
     "author": "«Мать и дитя» Гигиена в общедоступном изложении ",
     "year": "1894",
-    "imageUrl": ""
+    "images": [
+      "./images/image265.png",
+      "./images/image266.png"
+    ]
   },
   {
     "title": "Золя Эмиль ",
     "author": "«Собрание сочинений» в 22-х томах в 11-и книгах Мамонтов",
     "year": "1896",
-    "imageUrl": ""
+    "images": [
+      "./images/image267.png",
+      "./images/image268.png"
+    ]
   },
   {
     "title": "Златовратский Н. Н. ",
     "author": "«Собрание сочинений» в 2-х томах",
     "year": "1891",
-    "imageUrl": ""
+    "images": [
+      "./images/image269.png",
+      "./images/image270.png"
+    ]
   },
   {
     "title": "Зибель Генрих",
     "author": " «История французской революции и её времени» 2 книги",
     "year": "1863",
-    "imageUrl": ""
+    "images": [
+      "./images/image271.png",
+      "./images/image272.png"
+    ]
   },
   {
     "title": "Зигварт Христоф ",
     "author": "«Логика» в 3-х томах",
     "year": "1908",
-    "imageUrl": ""
+    "images": [
+      "./images/image273.png",
+      "./images/image274.png"
+    ]
   },
   {
     "title": "Зеленкова О. К. ",
     "author": "«Я никого не ем!» 365 вегетарианских меню",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image275.png",
+      "./images/image276.png"
+    ]
   },
   {
     "title": "Зелинский В. ",
     "author": "«Историко-критический комментарий к сочинениям Ф. М. Достоевского»",
     "year": "1885",
-    "imageUrl": ""
+    "images": [
+      "./images/image277.png"
+    ]
   },
   {
     "title": "Зелинский Ф. Ф.",
     "author": "«Соперники христианства» в 3-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image278.png",
+      "./images/image279.png"
+    ]
   },
   {
     "title": "Золотарев Д. А. ",
     "author": "«Лопарская экспедиция 1927 года»",
     "year": "1927",
-    "imageUrl": ""
+    "images": [
+      "./images/image280.png"
+    ]
   },
   {
     "title": "Йегер Оскар ",
     "author": "«Всеобщая история» в 4-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image281.png"
+    ]
   },
   {
     "title": "Ибсен Генрих ",
     "author": "«Полное собрание драматических сочинений» в 2-х томах",
     "year": "1900",
-    "imageUrl": ""
+    "images": [
+      "./images/image282.png",
+      "./images/image283.png"
+    ]
   },
   {
     "title": "Йегер Оскар ",
     "author": "«Всеобщая история»  в 4-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image284.png",
+      "./images/image285.png"
+    ]
   },
   {
     "title": "Иванов П. ",
     "author": "«Студенты в Москве. Быт. Нравы. Типы» Очерки",
     "year": "1903",
-    "imageUrl": ""
+    "images": [
+      "./images/image286.png",
+      "./images/image287.png"
+    ]
   },
   {
     "title": "Инсарский В. А. ",
     "author": "«Записки»",
     "year": "1898",
-    "imageUrl": ""
+    "images": [
+      "./images/image288.png",
+      "./images/image289.png"
+    ]
   },
   {
     "title": "Ионин А. С. ",
     "author": "«По Южной Америке» в 2-х томах",
     "year": "1892",
-    "imageUrl": ""
+    "images": [
+      "./images/image290.png",
+      "./images/image291.png"
+    ]
   },
   {
     "title": "Иакинф. монах",
     "author": " «Китай в гражданском и нравственном состоянии»",
     "year": "1848",
-    "imageUrl": ""
+    "images": [
+      "./images/image292.png",
+      "./images/image293.png"
+    ]
   },
   {
     "title": "Иванов К. А. ",
     "author": " «Средневековый город, средневековая деревня и их обитатели» 2 книги 1909-1910 годы",
     "year": "1909",
-    "imageUrl": ""
+    "images": [
+      "./images/image294.png"
+    ]
   },
   {
     "title": "Иванов К. А. ",
     "author": "«Средневековый замок, средневековая деревня, город, монастырь и их обитатели» 1900-1907 годы",
     "year": "1900",
-    "imageUrl": ""
+    "images": [
+      "./images/image295.png",
+      "./images/image296.png"
+    ]
   },
   {
     "title": "Батюшков Ф. Д.",
     "author": "«История западной литературы 1800-1910» под редакцией профессора Батюшкова Ф. Д. в 3-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image297.png",
+      "./images/image298.png"
+    ]
   },
   {
     "title": "Ибн-Даст Абу-Али ",
     "author": "«Известия о хозарах, бургасах, болгарах, мадьярах, славянах и руссах»",
     "year": "1869",
-    "imageUrl": ""
+    "images": [
+      "./images/image299.png",
+      "./images/image300.png"
+    ]
   },
   {
     "title": "Колосов А.",
     "author": " «Его величество!»",
     "year": "1902",
-    "imageUrl": ""
+    "images": [
+      "./images/image301.png",
+      "./images/image302.png"
+    ]
   },
   {
     "title": "Короленко В. Г.",
     "author": " «Полное собрание сочинений» в 9-и томах",
     "year": "1914",
-    "imageUrl": ""
+    "images": [
+      "./images/image303.png",
+      "./images/image304.png"
+    ]
   },
   {
     "title": "Крюков Н.",
     "author": " «Железнодорожное дело» в 2-х томах",
     "year": "1899",
-    "imageUrl": ""
+    "images": [
+      "./images/image305.png",
+      "./images/image306.png"
+    ]
   },
   {
     "title": "Костомаров Н.",
     "author": " «Богдан Хмельницкий» в 3-х томах",
     "year": "1884",
-    "imageUrl": ""
+    "images": [
+      "./images/image307.png",
+      "./images/image308.png"
+    ]
   },
   {
     "title": "Кропоткин П. ",
     "author": "«Записки революционера»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image309.png",
+      "./images/image310.png"
+    ]
   },
   {
     "title": "Крестовский В. В. ",
     "author": "«Собрание сочинений»",
     "year": "1899",
-    "imageUrl": ""
+    "images": [
+      "./images/image311.png",
+      "./images/image312.png"
+    ]
   },
   {
     "title": "Карамзин Н. М.",
     "author": " «История государства российского» в 5-и томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image313.png",
+      "./images/image314.png"
+    ]
   },
   {
     "title": "Кареев Н. И.",
     "author": " «История Западной Европы в новое время» в 4-х томах",
     "year": "1914",
-    "imageUrl": ""
+    "images": [
+      "./images/image315.png",
+      "./images/image316.png"
+    ]
   },
   {
     "title": "Костомаров Николай ",
     "author": "«Очерки торговли Московского государства в XVI и XVII столетиях»",
     "year": "1889",
-    "imageUrl": ""
+    "images": [
+      "./images/image317.png",
+      "./images/image318.png"
+    ]
   },
   {
     "title": "Куприн А. И. ",
     "author": "«Полное собрание сочинений» в 4-х томах в 2-х книгах",
     "year": "1912",
-    "imageUrl": ""
+    "images": [
+      "./images/image319.png",
+      "./images/image320.png"
+    ]
   },
   {
     "title": "Кнейпп С. ",
     "author": "«Моё водолечение»",
     "year": "1893",
-    "imageUrl": ""
+    "images": [
+      "./images/image321.png",
+      "./images/image322.png"
+    ]
   },
   {
     "title": "К. Р. (Романов Константин)",
     "author": " «Стихотворения 1879-1912» в 3-х томах",
     "year": "1913",
-    "imageUrl": ""
+    "images": [
+      "./images/image323.png",
+      "./images/image324.png"
+    ]
   },
   {
     "title": "Кольцов А. В.",
     "author": "Стихотворения» Первое полное собрание",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image325.png",
+      "./images/image326.png"
+    ]
   },
   {
     "title": "Курбатов В. Я. ",
     "author": "«Сады и парки»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image327.png",
+      "./images/image328.png"
+    ]
   },
   {
     "title": "Карнович Е. П.",
     "author": " «Цесаревич Константин Павлович»",
     "year": "1899",
-    "imageUrl": ""
+    "images": [
+      "./images/image329.png",
+      "./images/image330.png"
+    ]
   },
   {
     "title": "Короленко В. Г.",
     "author": " «Полное собрание сочинений» в 9-и томах",
     "year": "1914",
-    "imageUrl": ""
+    "images": [
+      "./images/image331.png",
+      "./images/image332.png"
+    ]
   },
   {
     "title": "Ключевский В. ",
     "author": "«Курс русской истории» в 4-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image333.png",
+      "./images/image334.png"
+    ]
   },
   {
     "title": "Кони А. Ф. ",
     "author": "«На жизненном пути» в 2-х томах",
     "year": "1912",
-    "imageUrl": ""
+    "images": [
+      "./images/image335.png",
+      "./images/image336.png"
+    ]
   },
   {
     "title": "Казамиан Луи Франсуа ",
     "author": "«Современая Англия»",
     "year": "1912",
-    "imageUrl": ""
+    "images": [
+      "./images/image337.png",
+      "./images/image338.png"
+    ]
   },
   {
     "title": "Короленко В. Г. ",
     "author": "«Полное собрание сочинений» в 9-и томах в 5-и книгах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image339.png",
+      "./images/image340.png"
+    ]
   },
   {
     "title": "Каррель Арман ",
     "author": "«История контрреволюции в Англии при Карле II и Иакове II»",
     "year": "1866",
-    "imageUrl": ""
+    "images": [
+      "./images/image341.png"
+    ]
   },
   {
     "title": "Кони А. Ф. ",
     "author": "«Очерки и воспоминания»",
     "year": "1906",
-    "imageUrl": ""
+    "images": [
+      "./images/image342.png",
+      "./images/image343.png"
+    ]
   },
   {
     "title": "Костомаров Николай ",
     "author": "«Русская история в жизнеописаниях её главнейших деятелей» 4 книги",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image344.png",
+      "./images/image345.png"
+    ]
   },
   {
     "title": "Карцов П. П. ",
     "author": "«Из прошлого. Личные и служебные воспоминания»",
     "year": "1888",
-    "imageUrl": ""
+    "images": [
+      "./images/image346.png",
+      "./images/image347.png"
+    ]
   },
   {
     "title": "Крисп А. Х. ",
     "author": "«Поваренная книга»",
     "year": "1788",
-    "imageUrl": ""
+    "images": [
+      "./images/image348.png",
+      "./images/image349.png"
+    ]
   },
   {
     "title": "Кюстин Астольф де",
     "author": " «Николаевская Россия",
     "year": "1930",
-    "imageUrl": ""
+    "images": [
+      "./images/image350.png",
+      "./images/image351.png"
+    ]
   },
   {
     "title": "Кент Ч. ",
     "author": "«Семь новейших чудес света»",
     "year": "1895",
-    "imageUrl": ""
+    "images": [
+      "./images/image352.png",
+      "./images/image353.png"
+    ]
   },
   {
     "title": "Керте А. ",
     "author": "«Рунная овца»",
     "year": "1881",
-    "imageUrl": ""
+    "images": [
+      "./images/image354.png",
+      "./images/image355.png"
+    ]
   },
   {
     "title": "Кольб Г. Фр.",
     "author": " «История человеческой культуры»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image356.png",
+      "./images/image357.png"
+    ]
   },
   {
     "title": "Котляровский А. ",
     "author": "«О погребальных обычаях языческих славян»",
     "year": "1868",
-    "imageUrl": ""
+    "images": [
+      "./images/image358.png",
+      "./images/image359.png"
+    ]
   },
   {
     "title": "Кант ",
     "author": "«Критика чистого разума»",
     "year": "1915",
-    "imageUrl": ""
+    "images": [
+      "./images/image360.png",
+      "./images/image361.png"
+    ]
   },
   {
     "title": "Лопухин И. В. ",
     "author": "«Масонские труды»",
     "year": "1913",
-    "imageUrl": ""
+    "images": [
+      "./images/image362.png",
+      "./images/image363.png"
+    ]
   },
   {
     "title": "Лесгафт Э. ",
     "author": "«Краткий курс географии России»",
     "year": "1912",
-    "imageUrl": ""
+    "images": [
+      "./images/image364.png",
+      "./images/image365.png"
+    ]
   },
   {
     "title": "Лоуэлль А. Л. ",
     "author": "«Правительства и политические партии в государствах Западной Европы»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image366.png",
+      "./images/image367.png"
+    ]
   },
   {
     "title": "Лапрехт К. ",
     "author": "«История германского народа»",
     "year": "1894",
-    "imageUrl": ""
+    "images": [
+      "./images/image368.png",
+      "./images/image369.png"
+    ]
   },
   {
     "title": "Лиссагарэ Э. ",
     "author": "«История парижской коммуны»",
     "year": "1906",
-    "imageUrl": ""
+    "images": [
+      "./images/image370.png",
+      "./images/image371.png"
+    ]
   },
   {
     "title": "Лоу Сидней ",
     "author": "«Государственный строй Англии»",
     "year": "1910",
-    "imageUrl": ""
+    "images": [
+      "./images/image372.png",
+      "./images/image373.png"
+    ]
   },
   {
     "title": "Лесков Н. С. ",
     "author": "«Полное собрание сочинений» в 36-и томах в 9-и книгах",
     "year": "1902",
-    "imageUrl": ""
+    "images": [
+      "./images/image374.png",
+      "./images/image375.png"
+    ]
   },
   {
     "title": "Ламартин Альфонс ",
     "author": "«Жирондисты» в 4-х томах в 2-х книгах",
     "year": "1911",
-    "imageUrl": ""
+    "images": [
+      "./images/image376.png",
+      "./images/image377.png"
+    ]
   },
   {
     "title": "Лозинский Е. Г. ",
     "author": "«История инквизиции в Испании» в 3-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image378.png",
+      "./images/image379.png"
+    ]
   },
   {
     "title": "Лажечников И. ",
     "author": "«Сочинения» в 12-и томах в 7-и книгах 1883 год",
     "year": "1883",
-    "imageUrl": ""
+    "images": [
+      "./images/image380.png",
+      "./images/image381.png"
+    ]
   },
   {
     "title": "Левинстим А. ",
     "author": "«Речь государственного обвинителя в уголовном суде» Этюд",
     "year": "1894",
-    "imageUrl": ""
+    "images": [
+      "./images/image382.png",
+      "./images/image383.png"
+    ]
   },
   {
     "title": "Либрович С. Ф. ",
     "author": "«История книги в России»",
     "year": "1914",
-    "imageUrl": ""
+    "images": [
+      "./images/image384.png",
+      "./images/image385.png"
+    ]
   },
   {
     "title": "Лессинг Г. Э. ",
     "author": "«Натан Мудрый» Драматическое стихотворение",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image386.png",
+      "./images/image387.png"
+    ]
   },
   {
     "title": "Лесков Н. С. ",
     "author": "«Полное собрание сочинений» в 36-и томах",
     "year": "1902",
-    "imageUrl": ""
+    "images": [
+      "./images/image388.png",
+      "./images/image389.png"
+    ]
   },
   {
     "title": "Ламперт К. ",
     "author": "«Атлас бабочек и гусениц Европы и отчасти русско-азиатских владений»",
     "year": "1913",
-    "imageUrl": ""
+    "images": [
+      "./images/image390.png",
+      "./images/image391.png"
+    ]
   },
   {
     "title": "Либих Юстус ",
     "author": "«Письма о химии»",
     "year": "1861",
-    "imageUrl": ""
+    "images": [
+      "./images/image392.png",
+      "./images/image393.png"
+    ]
   },
   {
     "title": "Лангеталь Хр. Эд. ",
     "author": "«Руководство к познанию и возделыванию сельскохозяйственных растений»",
     "year": "1876",
-    "imageUrl": ""
+    "images": [
+      "./images/image394.png",
+      "./images/image395.png"
+    ]
   },
   {
     "title": "Лежар Феликс",
     "author": " «Хирургическая помощь в неотложных случаях» в 2-х томах",
     "year": "1912",
-    "imageUrl": ""
+    "images": [
+      "./images/image396.png",
+      "./images/image397.png"
+    ]
   },
   {
     "title": "Лесгафт П. Ф. ",
     "author": "«Основы теоретической анатомии»",
     "year": "1892",
-    "imageUrl": ""
+    "images": [
+      "./images/image398.png",
+      "./images/image399.png"
+    ]
   },
   {
     "title": "Лахтин М. Ю. ",
     "author": "«Краткий биографический словарь знаменитых врачей всех времен»",
     "year": "1902",
-    "imageUrl": ""
+    "images": [
+      "./images/image400.png",
+      "./images/image401.png"
+    ]
   },
   {
     "title": "Лихтенберже А. ",
     "author": "«Философия Ницше»",
     "year": "1906",
-    "imageUrl": ""
+    "images": [
+      "./images/image402.png"
+    ]
   },
   {
     "title": "Ломброзо Ц. ",
     "author": "«Гениальность и помешательство»",
     "year": "1885",
-    "imageUrl": ""
+    "images": [
+      "./images/image403.png",
+      "./images/image404.png"
+    ]
   },
   {
     "title": "Летурно Ш. ",
     "author": "«Литературное развитие различных племен и народов»",
     "year": "1895",
-    "imageUrl": ""
+    "images": [
+      "./images/image405.png",
+      "./images/image406.png"
+    ]
   },
   {
     "title": "Летурно Ш. ",
     "author": "«Физиология страстей»",
     "year": "1896",
-    "imageUrl": ""
+    "images": [
+      "./images/image407.png",
+      "./images/image408.png"
+    ]
   },
   {
     "title": "Мей Л. А. ",
     "author": "«Полное собрание сочинений» в 2-х томах",
     "year": "1911",
-    "imageUrl": ""
+    "images": [
+      "./images/image409.png",
+      "./images/image410.png"
+    ]
   },
   {
     "title": "Мачтет Г. А. ",
     "author": "«Полное собрание сочинений» в 12-х томах в 6-и книгах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image411.png",
+      "./images/image412.png"
+    ]
   },
   {
     "title": "Милюков П. ",
     "author": "«Из истории русской интеллигенции» Сборник статей и этюдов",
     "year": "1902",
-    "imageUrl": ""
+    "images": [
+      "./images/image413.png",
+      "./images/image414.png"
+    ]
   },
   {
     "title": "Марцеллин Аммиан",
     "author": " «История»",
     "year": "1906",
-    "imageUrl": ""
+    "images": [
+      "./images/image415.png",
+      "./images/image416.png"
+    ]
   },
   {
     "title": "Мамонтов Сергей",
     "author": " «По белу свету»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image417.png",
+      "./images/image418.png"
+    ]
   },
   {
     "title": "Мережковский Д. ",
     "author": "«Христос и антихрист. Трилогия» в 3-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image419.png",
+      "./images/image420.png"
+    ]
   },
   {
     "title": "Милль Джон Стюарт",
     "author": " «Обзор философии сэра Вильяма Гамильтона»",
     "year": "1869",
-    "imageUrl": ""
+    "images": [
+      "./images/image421.png",
+      "./images/image422.png"
+    ]
   },
   {
     "title": "Марков Евгений ",
     "author": "«Очерки Кавказа»",
     "year": "1913",
-    "imageUrl": ""
+    "images": [
+      "./images/image423.png",
+      "./images/image424.png"
+    ]
   },
   {
     "title": "Мельников П. И. ",
     "author": "«Полное собрание сочинений» в 7-и томах",
     "year": "1909",
-    "imageUrl": ""
+    "images": [
+      "./images/image425.png",
+      "./images/image426.png"
+    ]
   },
   {
     "title": "Михельсон М. И.",
     "author": " «Меткие и ходячие слова»",
     "year": "1894",
-    "imageUrl": ""
+    "images": [
+      "./images/image427.png",
+      "./images/image428.png"
+    ]
   },
   {
     "title": "Мэхэн А. Т. ",
     "author": "«Влияние морской силы на историю»",
     "year": "1896",
-    "imageUrl": ""
+    "images": [
+      "./images/image429.png",
+      "./images/image430.png"
+    ]
   },
   {
     "title": "Максимов С. В. ",
     "author": "«Год на Севере»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image431.png",
+      "./images/image432.png"
+    ]
   },
   {
     "title": "Муратов П. П. ",
     "author": "«Новеллы итальянского возрождения» в 2-х томах",
     "year": "1912",
-    "imageUrl": ""
+    "images": [
+      "./images/image433.png",
+      "./images/image434.png"
+    ]
   },
   {
     "title": "Максимов С. В. ",
     "author": "«Бродячая Русь Христа ради»",
     "year": "1877",
-    "imageUrl": ""
+    "images": [
+      "./images/image435.png",
+      "./images/image436.png"
+    ]
   },
   {
     "title": "Мельшин Л.",
     "author": " «Очерки русской поэзии» ",
     "year": "1904",
-    "imageUrl": ""
+    "images": [
+      "./images/image437.png",
+      "./images/image438.png"
+    ]
   },
   {
     "title": "Мельников П. И. ",
     "author": "«Полное собрание сочинений» в 7-и томах в 4-х книгах Мамонтов",
     "year": "1909",
-    "imageUrl": ""
+    "images": [
+      "./images/image439.png",
+      "./images/image440.png"
+    ]
   },
   {
     "title": "Меринг Ф. ",
     "author": "«История германской социалдемократии» в 4-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image441.png"
+    ]
   },
   {
     "title": "Мильтон ",
     "author": "«Потерянный и возвращенный рай» С гравюрами Г. Дорэ",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image442.png"
+    ]
   },
   {
     "title": "Мережковский Д. ",
     "author": "«Петр» ",
     "year": "1905",
-    "imageUrl": ""
+    "images": [
+      "./images/image443.png"
+    ]
   },
   {
     "title": "Мельшин Л. ",
     "author": "«В мире отверженных»",
     "year": "1899",
-    "imageUrl": ""
+    "images": [
+      "./images/image444.png",
+      "./images/image445.png"
+    ]
   },
   {
     "title": "Муратов П.",
     "author": " «Образы Италии» в 2-х томах",
     "year": "1912",
-    "imageUrl": ""
+    "images": [
+      "./images/image446.png",
+      "./images/image447.png"
+    ]
   },
   {
     "title": "Мельников П. И. ",
     "author": "«Полное собрание сочинений» в 7-и томах",
     "year": "1909",
-    "imageUrl": ""
+    "images": [
+      "./images/image448.png",
+      "./images/image449.png"
+    ]
   },
   {
     "title": "Максимов С. ",
     "author": "«Сибирь и каторга»",
     "year": "1891",
-    "imageUrl": ""
+    "images": [
+      "./images/image450.png"
+    ]
   },
   {
     "title": "Миних Э.",
     "author": " «Россия и русский двор в первой половине XVIII века» Записки и замечания",
     "year": "1891",
-    "imageUrl": ""
+    "images": [
+      "./images/image451.png",
+      "./images/image452.png"
+    ]
   },
   {
     "title": "Мишо Г.",
     "author": " «История крестовых походов»",
     "year": "1884",
-    "imageUrl": ""
+    "images": [
+      "./images/image453.png",
+      "./images/image454.png"
+    ]
   },
   {
     "title": "Немирович-Данченко В. И.",
     "author": " «Край Марии Пречистой»",
     "year": "1902",
-    "imageUrl": ""
+    "images": [
+      "./images/image455.png",
+      "./images/image456.png"
+    ]
   },
   {
     "title": "Нансен Фритьоф ",
     "author": "«В стране льда и ночи»",
     "year": "1897",
-    "imageUrl": ""
+    "images": [
+      "./images/image457.png",
+      "./images/image458.png"
+    ]
   },
   {
     "title": "Некрасов Н. А. ",
     "author": "«Полное собрание сочинений» в 2-х томах",
     "year": "1909",
-    "imageUrl": ""
+    "images": [
+      "./images/image459.png",
+      "./images/image460.png"
+    ]
   },
   {
     "title": "Никитин И. С. ",
     "author": "«Сочинения» в 2-х томах",
     "year": "1896",
-    "imageUrl": ""
+    "images": [
+      "./images/image461.png",
+      "./images/image462.png"
+    ]
   },
   {
     "title": "Ненашев А. П. ",
     "author": "«Франция» ",
     "year": "1912",
-    "imageUrl": ""
+    "images": [
+      "./images/image463.png",
+      "./images/image464.png"
+    ]
   },
   {
     "title": "Нетыкса М. А. ",
     "author": "«Столярное искусство» Практический курс",
     "year": "1901",
-    "imageUrl": ""
+    "images": [
+      "./images/image465.png",
+      "./images/image466.png"
+    ]
   },
   {
     "title": "Немирович-Данченко В. И. ",
     "author": "«Год войны» Дневник русского корреспондента",
     "year": "1879",
-    "imageUrl": ""
+    "images": [
+      "./images/image467.png",
+      "./images/image468.png"
+    ]
   },
   {
     "title": "Никольский Н. М.",
     "author": " «Древний Вавилон»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image469.png",
+      "./images/image470.png"
+    ]
   },
   {
     "title": "Неклюдов А. В. ",
     "author": "«Старые портреты» в 2-х частях, 2 книги",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image471.png",
+      "./images/image472.png"
+    ]
   },
   {
     "title": "Норов Авраам",
     "author": " «Путешествие по Египту и Нубии» в 2-х томах 1840 год",
     "year": "1840",
-    "imageUrl": ""
+    "images": [
+      "./images/image473.png",
+      "./images/image474.png"
+    ]
   },
   {
     "title": "Омулевский ",
     "author": "«Полное собрание сочинений» в 2-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image475.png",
+      "./images/image476.png"
+    ]
   },
   {
     "title": "Ордин К. Ф. ",
     "author": "«Собрание сочинений по финляндскому вопросу» в 3-х томах",
     "year": "1908",
-    "imageUrl": ""
+    "images": [
+      "./images/image477.png",
+      "./images/image478.png"
+    ]
   },
   {
     "title": "Овчининская В. ",
     "author": "«Как живут японцы» 1899 год",
     "year": "1899",
-    "imageUrl": ""
+    "images": [
+      "./images/image479.png",
+      "./images/image480.png"
+    ]
   },
   {
     "title": "Обри Д. ",
     "author": "«Английский двор и король Эдуард VII»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image481.png",
+      "./images/image482.png"
+    ]
   },
   {
     "title": "Пыляев М. И.",
     "author": "«Замечательные чудаки и оригиналы»",
     "year": "1898",
-    "imageUrl": ""
+    "images": [
+      "./images/image483.png",
+      "./images/image484.png"
+    ]
   },
   {
     "title": "Помяловский Н. Г. ",
     "author": "«Полное собрание сочинений» в 2-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image485.png",
+      "./images/image486.png"
+    ]
   },
   {
     "title": "Пыляев М. И.",
     "author": " «Старая Москва» Рассказы из былой жизни первопрестольной столицы",
     "year": "1891",
-    "imageUrl": ""
+    "images": [
+      "./images/image487.png",
+      "./images/image488.png"
+    ]
   },
   {
     "title": "Пыляев М. И. ",
     "author": "«Старый Петербург» Рассказы из былой жизни столицы",
     "year": "1887",
-    "imageUrl": ""
+    "images": [
+      "./images/image489.png",
+      "./images/image490.png"
+    ]
   },
   {
     "title": "Петров М. Н. ",
     "author": "«Из всемирной истории» Очерки",
     "year": "1904",
-    "imageUrl": ""
+    "images": [
+      "./images/image491.png"
+    ]
   },
   {
     "title": "Пыляев М. И. ",
     "author": "«Старая Москва» Забытое прошлое окрестностей Петербурга",
     "year": "1889",
-    "imageUrl": ""
+    "images": [
+      "./images/image492.png",
+      "./images/image493.png"
+    ]
   },
   {
     "title": "Пыляев М. И. ",
     "author": "«Драгоценные камни»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image494.png",
+      "./images/image495.png"
+    ]
   },
   {
     "title": "Пыляев М. И.",
     "author": " «Старое житье» Очерки и рассказы",
     "year": "1897",
-    "imageUrl": ""
+    "images": [
+      "./images/image496.png"
+    ]
   },
   {
     "title": "Помяловский Н. Г. ",
     "author": "«Полное собрание сочинений»",
     "year": "1912",
-    "imageUrl": ""
+    "images": [
+      "./images/image497.png",
+      "./images/image498.png"
+    ]
   },
   {
     "title": "Прус Болеслав",
     "author": " «Полное собрание сочинений» в 5-и томах",
     "year": "1900",
-    "imageUrl": ""
+    "images": [
+      "./images/image499.png",
+      "./images/image500.png"
+    ]
   },
   {
     "title": "Потапенко И. Н. ",
     "author": "«Повести и рассказы» в 12-и томах в 6-и книгах",
     "year": "1891",
-    "imageUrl": ""
+    "images": [
+      "./images/image501.png",
+      "./images/image502.png"
+    ]
   },
   {
     "title": "Плевако Ф. Н. ",
     "author": "«Речи» в 2-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image503.png",
+      "./images/image504.png"
+    ]
   },
   {
     "title": "Полевой Н. А.",
     "author": " «История князя Италийского графа Суворова-Рымникского»",
     "year": "1893",
-    "imageUrl": ""
+    "images": [
+      "./images/image505.png",
+      "./images/image506.png"
+    ]
   },
   {
     "title": "Прыжов И. Г. ",
     "author": "«История кабаков в России»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image507.png",
+      "./images/image508.png"
+    ]
   },
   {
     "title": "Полонский Я. П. ",
     "author": "«Полное собрание стихотворений» в 5-и томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image509.png",
+      "./images/image510.png"
+    ]
   },
   {
     "title": "Плосс Г. доктор",
     "author": " «Женщина» в 2-х томах",
     "year": "1891",
-    "imageUrl": ""
+    "images": [
+      "./images/image511.png",
+      "./images/image512.png"
+    ]
   },
   {
     "title": "Пассек Т. П.",
     "author": " «Воспоминания из дальних лет» в 3-х томах",
     "year": "1905",
-    "imageUrl": ""
+    "images": [
+      "./images/image513.png",
+      "./images/image514.png"
+    ]
   },
   {
     "title": "Полевой П. Н.",
     "author": " «История русской словесности» в 3-х томах",
     "year": "1900",
-    "imageUrl": ""
+    "images": [
+      "./images/image515.png",
+      "./images/image516.png"
+    ]
   },
   {
     "title": "Пыляев М. И. ",
     "author": "«Старое житье» Очерки и рассказы",
     "year": "1897",
-    "imageUrl": ""
+    "images": [
+      "./images/image517.png",
+      "./images/image518.png"
+    ]
   },
   {
     "title": "Петрушевский А. ",
     "author": "«Генералисимус Князь Суворов» в 3-х томах",
     "year": "1884",
-    "imageUrl": ""
+    "images": [
+      "./images/image519.png",
+      "./images/image520.png"
+    ]
   },
   {
     "title": "Пыпин А. Н. ",
     "author": "«Общественное движение при Александре I» Исторические очерки 1871 год",
     "year": "1871",
-    "imageUrl": ""
+    "images": [
+      "./images/image521.png",
+      "./images/image522.png"
+    ]
   },
   {
     "title": "Плосс Г. ",
     "author": "«Ребенок от колыбели до первого шага»",
     "year": "1881",
-    "imageUrl": ""
+    "images": [
+      "./images/image523.png",
+      "./images/image524.png"
+    ]
   },
   {
     "title": "Петрушевский Ф.",
     "author": " «Метрология» Описание мер, весов, монет и времяисчисления",
     "year": "1831",
-    "imageUrl": ""
+    "images": [
+      "./images/image525.png",
+      "./images/image526.png"
+    ]
   },
   {
     "title": "Плэннис Вильгельм фон ",
     "author": "«Новые исследования над нарезным пехотным огнестрельным оружием»",
     "year": "1863",
-    "imageUrl": ""
+    "images": [
+      "./images/image527.png",
+      "./images/image528.png"
+    ]
   },
   {
     "title": "Платен М.",
     "author": " «Новый способ лечения» Настольная книга для здоровых и больных в 3-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image529.png",
+      "./images/image530.png"
+    ]
   },
   {
     "title": "Прибыль Леон ",
     "author": "«Домашнее и заводское птицеводство»",
     "year": "1879",
-    "imageUrl": ""
+    "images": [
+      "./images/image531.png",
+      "./images/image532.png"
+    ]
   },
   {
     "title": "Посошков Иван ",
     "author": "«Сочинения» 1842 год",
     "year": "1842",
-    "imageUrl": ""
+    "images": [
+      "./images/image533.png",
+      "./images/image534.png"
+    ]
   },
   {
     "title": "Пирогов Н. И. ",
     "author": "«Хирургическая анатомия артериальных стволов и фасций»",
     "year": "1881",
-    "imageUrl": ""
+    "images": [
+      "./images/image535.png",
+      "./images/image536.png"
+    ]
   },
   {
     "title": "Пирогов Н. И. ",
     "author": "«Военно-врачебное дело. Частная помощь» ",
     "year": "1879",
-    "imageUrl": ""
+    "images": [
+      "./images/image537.png",
+      "./images/image538.png"
+    ]
   },
   {
     "title": "Пирогов Н. И. ",
     "author": "«Начала общей военнополевой хирургии»",
     "year": "1865",
-    "imageUrl": ""
+    "images": [
+      "./images/image539.png",
+      "./images/image540.png"
+    ]
   },
   {
     "title": "Пскович (Куликов П. П.) ",
     "author": "«Охота и охотники. Рассказы»",
     "year": "1889",
-    "imageUrl": ""
+    "images": [
+      "./images/image541.png",
+      "./images/image542.png"
+    ]
   },
   {
     "title": "Рено Арман ",
     "author": "«Героизм»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image543.png",
+      "./images/image544.png"
+    ]
   },
   {
     "title": "Ренан Ернест",
     "author": " «Жизнь Иисуса»",
     "year": "1896",
-    "imageUrl": ""
+    "images": [
+      "./images/image545.png",
+      "./images/image546.png"
+    ]
   },
   {
     "title": "Рёскин Джон",
     "author": " «Сочинения» 3 книги",
     "year": "1900",
-    "imageUrl": ""
+    "images": [
+      "./images/image547.png"
+    ]
   },
   {
     "title": "Роганов Г. Н. ",
     "author": "«Техника резьбы по дереву и кости»",
     "year": "1941",
-    "imageUrl": ""
+    "images": [
+      "./images/image548.png",
+      "./images/image549.png"
+    ]
   },
   {
     "title": "Ределин Мария ",
     "author": "«Дом и хозяйство» в 2-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image550.png",
+      "./images/image551.png"
+    ]
   },
   {
     "title": "Рагозина З. А. ",
     "author": "«История Индии времен Риг-Веды. Древнейшая история востока» в 3-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image552.png",
+      "./images/image553.png"
+    ]
   },
   {
     "title": "Риман Г. ",
     "author": "«Музыкальный словарь»",
     "year": "1900",
-    "imageUrl": ""
+    "images": [
+      "./images/image554.png",
+      "./images/image555.png"
+    ]
   },
   {
     "title": "Ределин Мария ",
     "author": "«Дом и хозяйство» в 2-х томах",
     "year": "1900",
-    "imageUrl": ""
+    "images": [
+      "./images/image556.png",
+      "./images/image557.png"
+    ]
   },
   {
     "title": "Ростан Эдмонд ",
     "author": "«Полное собрание сочинений»",
     "year": "1914",
-    "imageUrl": ""
+    "images": [
+      "./images/image558.png",
+      "./images/image559.png"
+    ]
   },
   {
     "title": "Ром Н. К. ",
     "author": "«Домашние ремесла» 1886 год",
     "year": "1886",
-    "imageUrl": ""
+    "images": [
+      "./images/image560.png",
+      "./images/image561.png"
+    ]
   },
   {
     "title": "Розанов М. Н. ",
     "author": "«История английской литературы XIX века»",
     "year": "1915",
-    "imageUrl": ""
+    "images": [
+      "./images/image562.png",
+      "./images/image563.png"
+    ]
   },
   {
     "title": "Ровинский Д. А.",
     "author": " «Обозрение иконописания в России до конца XVII века»",
     "year": "1903",
-    "imageUrl": ""
+    "images": [
+      "./images/image564.png",
+      "./images/image565.png"
+    ]
   },
   {
     "title": "Рибо. Т. ",
     "author": "«Наследственность душевных свойств»",
     "year": "1884",
-    "imageUrl": ""
+    "images": [
+      "./images/image566.png",
+      "./images/image567.png"
+    ]
   },
   {
     "title": "Спенсер Герберт",
     "author": "«Социальная статика» в 5-и томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image568.png",
+      "./images/image569.png"
+    ]
   },
   {
     "title": "Стасюлевич М. М. ",
     "author": "«Переписка» в 5-и томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image570.png",
+      "./images/image571.png"
+    ]
   },
   {
     "title": "Стэнли Генри Мортан ",
     "author": "«Мои чернокожие спутники»",
     "year": "1894",
-    "imageUrl": ""
+    "images": [
+      "./images/image572.png",
+      "./images/image573.png"
+    ]
   },
   {
     "title": "Салтыков М. Е.",
     "author": " «Полное собрание сочинений» в 12-и томах в 8-и книгах Мамонтов",
     "year": "1906",
-    "imageUrl": ""
+    "images": [
+      "./images/image574.png",
+      "./images/image575.png"
+    ]
   },
   {
     "title": "Станюкович К. М. ",
     "author": "«Морские рассказы. Моряки»",
     "year": "1893",
-    "imageUrl": ""
+    "images": [
+      "./images/image576.png",
+      "./images/image577.png"
+    ]
   },
   {
     "title": "Станюкович К. М. ",
     "author": "«Полное собрание сочинений» в 12-и томах",
     "year": "1906",
-    "imageUrl": ""
+    "images": [
+      "./images/image578.png",
+      "./images/image579.png"
+    ]
   },
   {
     "title": "Слоон Вильям ",
     "author": "«Новое жизнеописание Наполеона I» в 2-х томах",
     "year": "1896",
-    "imageUrl": ""
+    "images": [
+      "./images/image580.png",
+      "./images/image581.png"
+    ]
   },
   {
     "title": "Степняк С. ",
     "author": "«Подпольная Россия»",
     "year": "1906",
-    "imageUrl": ""
+    "images": [
+      "./images/image582.png",
+      "./images/image583.png"
+    ]
   },
   {
     "title": "Самокиш Н. ",
     "author": "«Война 1904-1905 гг.» Из дневника художника",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image584.png",
+      "./images/image585.png"
+    ]
   },
   {
     "title": "Соловьев С. М. ",
     "author": "«История России с древнейших времен» 7 книг",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image586.png",
+      "./images/image587.png"
+    ]
   },
   {
     "title": "Стоюнин В. Я. ",
     "author": "«О преподавании русской литературы»",
     "year": "1904",
-    "imageUrl": ""
+    "images": [
+      "./images/image588.png",
+      "./images/image589.png"
+    ]
   },
   {
     "title": "Спасович В. Д. ",
     "author": "Сочинения» в 3-х томах 1889 год",
     "year": "1889",
-    "imageUrl": ""
+    "images": [
+      "./images/image590.png",
+      "./images/image591.png"
+    ]
   },
   {
     "title": "Сенкевич Генрих",
     "author": " «Письма из Африки»",
     "year": "1902",
-    "imageUrl": ""
+    "images": [
+      "./images/image592.png",
+      "./images/image593.png"
+    ]
   },
   {
     "title": "Сервантес Мигель де",
     "author": " «Дон-Кихот»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image594.png",
+      "./images/image595.png"
+    ]
   },
   {
     "title": "Соловьев В. С. ",
     "author": "«Письма» в 3-х томах",
     "year": "1908",
-    "imageUrl": ""
+    "images": [
+      "./images/image596.png",
+      "./images/image597.png"
+    ]
   },
   {
     "title": "Суворин А. А.",
     "author": "«Новый человек»",
     "year": "1914",
-    "imageUrl": ""
+    "images": [
+      "./images/image598.png",
+      "./images/image599.png"
+    ]
   },
   {
     "title": "Стэдом А. ",
     "author": "«Японцы о японии»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image600.png",
+      "./images/image601.png"
+    ]
   },
   {
     "title": "Сорель А. ",
     "author": "«Европа и французская революция»",
     "year": "1892",
-    "imageUrl": ""
+    "images": [
+      "./images/image602.png",
+      "./images/image603.png"
+    ]
   },
   {
     "title": "Синицын П. В.",
     "author": " «Преображенское и окружающие его места их прошлое и настоящее»",
     "year": "1895",
-    "imageUrl": ""
+    "images": [
+      "./images/image604.png",
+      "./images/image605.png"
+    ]
   },
   {
     "title": "Самаров Гр. ",
     "author": "«Сочинения» в 5-и томах",
     "year": "1904",
-    "imageUrl": ""
+    "images": [
+      "./images/image606.png",
+      "./images/image607.png"
+    ]
   },
   {
     "title": "Сапега Л. Л. ",
     "author": "«Мемуары Князя»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image608.png",
+      "./images/image609.png"
+    ]
   },
   {
     "title": "Суворов Н.",
     "author": " «Средневековые университеты»",
     "year": "1898",
-    "imageUrl": ""
+    "images": [
+      "./images/image610.png",
+      "./images/image611.png"
+    ]
   },
   {
     "title": "Симондс Д. А",
     "author": "«Данте. Его время, его произведения, его гений»",
     "year": "1893",
-    "imageUrl": ""
+    "images": [
+      "./images/image612.png",
+      "./images/image613.png"
+    ]
   },
   {
     "title": "Таганцев Н. С.",
     "author": " «Русское уголовное право» в 2-х томах",
     "year": "1902",
-    "imageUrl": ""
+    "images": [
+      "./images/image614.png",
+      "./images/image615.png"
+    ]
   },
   {
     "title": "Теккерей В. ",
     "author": "«Собрание сочинений» в 12-и томах в 6-и книгах 1894-1895 годы Мамонтов",
     "year": "1894",
-    "imageUrl": ""
+    "images": [
+      "./images/image616.png",
+      "./images/image617.png"
+    ]
   },
   {
     "title": "Тургенев И. С. ",
     "author": "«Полное собрание сочинений» в 12-и томах Мамонтов",
     "year": "1898",
-    "imageUrl": ""
+    "images": [
+      "./images/image618.png",
+      "./images/image619.png"
+    ]
   },
   {
     "title": "Тухолка С.",
     "author": " «Процессы о колдовстве в Западной Европе в XV–XVII веках»",
     "year": "1880",
-    "imageUrl": ""
+    "images": [
+      "./images/image620.png",
+      "./images/image621.png"
+    ]
   },
   {
     "title": "Тэн Ипполит ",
     "author": "«Происхождение общественного строя современной Франции»",
     "year": "1880",
-    "imageUrl": ""
+    "images": [
+      "./images/image622.png",
+      "./images/image623.png"
+    ]
   },
   {
     "title": "Транквилл Гай Светоний ",
     "author": "«Жизнь двенадцати цезарей»",
     "year": "1904",
-    "imageUrl": ""
+    "images": [
+      "./images/image624.png",
+      "./images/image625.png"
+    ]
   },
   {
     "title": "Туган-Барановский М. ",
     "author": "«Промышленные кризисы»",
     "year": "1900",
-    "imageUrl": ""
+    "images": [
+      "./images/image626.png",
+      "./images/image627.png"
+    ]
   },
   {
     "title": "Троицкий Д. И.",
     "author": " «Низложение Наполеона»",
     "year": "1904",
-    "imageUrl": ""
+    "images": [
+      "./images/image628.png",
+      "./images/image629.png"
+    ]
   },
   {
     "title": "Токвиль А. ",
     "author": "«Воспоминания»",
     "year": "1893",
-    "imageUrl": ""
+    "images": [
+      "./images/image630.png",
+      "./images/image631.png"
+    ]
   },
   {
     "title": "Толстой Л. Н. ",
     "author": "«Сочинения» С иллюстрациями русских художников",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image632.png",
+      "./images/image633.png"
+    ]
   },
   {
     "title": "Тассо Т. ",
     "author": "«Освобожденный Иерусалим» Поэма",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image634.png"
+    ]
   },
   {
     "title": "Тургенев И. С. ",
     "author": "«Словарь литературных типов»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image635.png",
+      "./images/image636.png"
+    ]
   },
   {
     "title": "Трубецкой С. Н. ",
     "author": "«Собрание сочинений» в 5-и томах",
     "year": "1907",
-    "imageUrl": ""
+    "images": [
+      "./images/image637.png",
+      "./images/image638.png"
+    ]
   },
   {
     "title": "Твэн Марк ",
     "author": "«Собрание сочинений» в 4-х томах",
     "year": "1896",
-    "imageUrl": ""
+    "images": [
+      "./images/image639.png",
+      "./images/image640.png"
+    ]
   },
   {
     "title": "Тютчев Ф. И. ",
     "author": "«Полное собрание сочинений»",
     "year": "1913",
-    "imageUrl": ""
+    "images": [
+      "./images/image641.png",
+      "./images/image642.png"
+    ]
   },
   {
     "title": "Тэн Ипполит",
     "author": " «Новейшая английская литература в современных её представителях»",
     "year": "1876",
-    "imageUrl": ""
+    "images": [
+      "./images/image643.png",
+      "./images/image644.png"
+    ]
   },
   {
     "title": "Тургенев И. С.",
     "author": " «Полное собрание сочинений» в 10-и томах",
     "year": "1884",
-    "imageUrl": ""
+    "images": [
+      "./images/image645.png",
+      "./images/image646.png"
+    ]
   },
   {
     "title": "Толстой Л. Н.",
     "author": " «Сочинения» в 23-х томах",
     "year": "1911",
-    "imageUrl": ""
+    "images": [
+      "./images/image647.png",
+      "./images/image648.png"
+    ]
   },
   {
     "title": "Толстой Л. Н. ",
     "author": "«Портретная галерея»",
     "year": "1903",
-    "imageUrl": ""
+    "images": [
+      "./images/image649.png",
+      "./images/image650.png"
+    ]
   },
   {
     "title": "Тютчев Ф. И. ",
     "author": "«Полное собрание сочинений»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image651.png",
+      "./images/image652.png"
+    ]
   },
   {
     "title": "Тилинский А. И. ",
     "author": "«Сельскохозяйственная архитектура»",
     "year": "1914",
-    "imageUrl": ""
+    "images": [
+      "./images/image653.png",
+      "./images/image654.png"
+    ]
   },
   {
     "title": "Тэйлор Ф. ",
     "author": "«Искусство резать металлы»",
     "year": "1922",
-    "imageUrl": ""
+    "images": [
+      "./images/image655.png",
+      "./images/image656.png"
+    ]
   },
   {
     "title": "Тилинский А. И. ",
     "author": "«Конюшни и их рациональное устройство»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image657.png",
+      "./images/image658.png"
+    ]
   },
   {
     "title": "Тун А.",
     "author": " «История революционных движений в России»",
     "year": "1905",
-    "imageUrl": ""
+    "images": [
+      "./images/image659.png",
+      "./images/image660.png"
+    ]
   },
   {
     "title": "Трачевский А. С. ",
     "author": "«Русская история» в 2-х томах ",
     "year": "1895",
-    "imageUrl": ""
+    "images": [
+      "./images/image661.png",
+      "./images/image662.png"
+    ]
   },
   {
     "title": "Урусов С. П. ",
     "author": "«Книга о лошади» в 2-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image663.png",
+      "./images/image664.png"
+    ]
   },
   {
     "title": "Успенский Г. ",
     "author": "«Сочинения» в 2-х томах 1889 год",
     "year": "1889",
-    "imageUrl": ""
+    "images": [
+      "./images/image665.png",
+      "./images/image666.png"
+    ]
   },
   {
     "title": "Успенский Г. ",
     "author": "«Полное собрание сочинений» в 2-х томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image667.png",
+      "./images/image668.png"
+    ]
   },
   {
     "title": "Успенский Ф. И.",
     "author": " «История Византийской Империи»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image669.png",
+      "./images/image670.png"
+    ]
   },
   {
     "title": "Фабр Жан Анри ",
     "author": "«Инстинкти и нравы насекомых» в 2-х томах",
     "year": "1914",
-    "imageUrl": ""
+    "images": [
+      "./images/image671.png",
+      "./images/image672.png"
+    ]
   },
   {
     "title": "Фрикен А. фон ",
     "author": "«Итальянское искусство в эпоху возрождения»",
     "year": "1897",
-    "imageUrl": ""
+    "images": [
+      "./images/image673.png",
+      "./images/image674.png"
+    ]
   },
   {
     "title": "Фон-Шанц И. И.",
     "author": " «Собрание статей» в 2-х томах",
     "year": "1865",
-    "imageUrl": ""
+    "images": [
+      "./images/image675.png",
+      "./images/image676.png"
+    ]
   },
   {
     "title": "Фет А. А. ",
     "author": "«Полное собрание стихотворений» в 3-х томах",
     "year": "1901",
-    "imageUrl": ""
+    "images": [
+      "./images/image677.png",
+      "./images/image678.png"
+    ]
   },
   {
     "title": "Фальке Якоб фон ",
     "author": "«Эллада и Рим» Культурная история классической древности",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image679.png",
+      "./images/image680.png"
+    ]
   },
   {
     "title": "Фелье Альфонс",
     "author": " «Жизнь знаменитых греков» Изложенная по Плутарху",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image681.png",
+      "./images/image682.png"
+    ]
   },
   {
     "title": "Фримен Эдуард ",
     "author": "«Развитие английской конституции»",
     "year": "1905",
-    "imageUrl": ""
+    "images": [
+      "./images/image683.png",
+      "./images/image684.png"
+    ]
   },
   {
     "title": "Фогт Карл ",
     "author": "«Чтения о полезных и вредных животных»",
     "year": "1865",
-    "imageUrl": ""
+    "images": [
+      "./images/image685.png",
+      "./images/image686.png"
+    ]
   },
   {
     "title": "Фет А. А. ",
     "author": "«Полное собрание стихотворений» в 3-х томах",
     "year": "1901",
-    "imageUrl": ""
+    "images": [
+      "./images/image687.png",
+      "./images/image688.png"
+    ]
   },
   {
     "title": "Фет А. А. ",
     "author": "«Полное собрание стихотворений» в 2-х томах",
     "year": "1912",
-    "imageUrl": ""
+    "images": [
+      "./images/image689.png",
+      "./images/image690.png"
+    ]
   },
   {
     "title": "Форель А. ",
     "author": "профессор «Половой вопрос»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image691.png",
+      "./images/image692.png"
+    ]
   },
   {
     "title": "Хойссер Людвиг",
     "author": " «История реформации»",
     "year": "1882",
-    "imageUrl": ""
+    "images": [
+      "./images/image693.png",
+      "./images/image694.png"
+    ]
   },
   {
     "title": "Храповицкий А. В.",
     "author": " «Дневник 1782-1793 гг.»",
     "year": "1874",
-    "imageUrl": ""
+    "images": [
+      "./images/image695.png",
+      "./images/image696.png"
+    ]
   },
   {
     "title": "Хагер Ганс ",
     "author": "«Руководство к фармацевтической и медико-химической практике»",
     "year": "1895",
-    "imageUrl": ""
+    "images": [
+      "./images/image697.png",
+      "./images/image698.png"
+    ]
   },
   {
     "title": "Циглер Теобальд ",
     "author": "«Умственные и общественные течения XIX столетия»",
     "year": "1900",
-    "imageUrl": ""
+    "images": [
+      "./images/image699.png"
+    ]
   },
   {
     "title": "Чистякова С. ",
     "author": "«История Петра Великого» Для юношества",
     "year": "1875",
-    "imageUrl": ""
+    "images": [
+      "./images/image700.png"
+    ]
   },
   {
     "title": "Чехов А. П.",
     "author": " «Полное собрание сочинений» в 22-х томах",
     "year": "1903",
-    "imageUrl": ""
+    "images": [
+      "./images/image701.png"
+    ]
   },
   {
     "title": "Чичерина Б.",
     "author": " «История русского права» ",
     "year": "1858",
-    "imageUrl": ""
+    "images": [
+      "./images/image702.png",
+      "./images/image703.png"
+    ]
   },
   {
     "title": "Штенцель Альфред ",
     "author": "«История войны на море» 5 книг",
     "year": "1918",
-    "imageUrl": ""
+    "images": [
+      "./images/image704.png",
+      "./images/image705.png"
+    ]
   },
   {
     "title": "Штраус Давид",
     "author": " «Ульрих фон Гуттен»",
     "year": "1896",
-    "imageUrl": ""
+    "images": [
+      "./images/image706.png",
+      "./images/image707.png"
+    ]
   },
   {
     "title": "Штолль Г. В.",
     "author": " «Герои Рима в войне и мире» История Рима в биографиях",
     "year": "1896",
-    "imageUrl": ""
+    "images": [
+      "./images/image708.png",
+      "./images/image709.png"
+    ]
   },
   {
     "title": "Шопенгауэр Артур ",
     "author": "«Афоризмы и максимы»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image710.png",
+      "./images/image711.png"
+    ]
   },
   {
     "title": "Шеллер А. К. ",
     "author": "«Сочинния» в 15-и томах",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image712.png",
+      "./images/image713.png"
+    ]
   },
   {
     "title": "Шершеневич Г. Ф.",
     "author": " «Учебник торгового права»",
     "year": "1910",
-    "imageUrl": ""
+    "images": [
+      "./images/image714.png",
+      "./images/image715.png"
+    ]
   },
   {
     "title": "Шубинский С. Н. ",
     "author": "«Исторические очерки и рассказы»",
     "year": "1908",
-    "imageUrl": ""
+    "images": [
+      "./images/image716.png",
+      "./images/image717.png"
+    ]
   },
   {
     "title": "Штрац доктор ",
     "author": "«Расовая женская красота»",
     "year": "1904",
-    "imageUrl": ""
+    "images": [
+      "./images/image718.png",
+      "./images/image719.png"
+    ]
   },
   {
     "title": "Шюре Эдуард ",
     "author": "«Рихард Вагнер и его музыкальная драма»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image720.png",
+      "./images/image721.png"
+    ]
   },
   {
     "title": "Шурц Генрих ",
     "author": "«История первобытной культуры»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image722.png",
+      "./images/image723.png"
+    ]
   },
   {
     "title": "Шрейдер Д. И. ",
     "author": "«Япония и японцы» Путевые очерки современной Японии",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image724.png",
+      "./images/image725.png"
+    ]
   },
   {
     "title": "Шрейдер Д. И. ",
     "author": " «Наш дальний восток» Три года в Уссурийском крае",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image726.png",
+      "./images/image727.png"
+    ]
   },
   {
     "title": "Шерр Иоганн ",
     "author": "«Комедия всемирной истории» 2 книги",
     "year": "1872",
-    "imageUrl": ""
+    "images": [
+      "./images/image728.png",
+      "./images/image729.png"
+    ]
   },
   {
     "title": "Шимкевич В. ",
     "author": "«Биологические основы зоологии»",
     "year": "1900",
-    "imageUrl": ""
+    "images": [
+      "./images/image730.png",
+      "./images/image731.png"
+    ]
   },
   {
     "title": "Эльцбахер П. ",
     "author": "«Сущность анархизма»",
     "year": "—",
-    "imageUrl": ""
+    "images": [
+      "./images/image732.png",
+      "./images/image733.png"
+    ]
   },
   {
     "title": "Энгельгардт Л. Н. ",
     "author": "«Записки 1766-1836 гг.» ",
     "year": "1867",
-    "imageUrl": ""
+    "images": [
+      "./images/image734.png",
+      "./images/image735.png"
+    ]
   },
   {
     "title": "Эрдманн Бенно ",
     "author": "«Научные гипотезы о душе и теле»",
     "year": "1910",
-    "imageUrl": ""
+    "images": [
+      "./images/image736.png",
+      "./images/image737.png"
+    ]
   },
   {
     "title": "Эшли У. Дж. ",
     "author": "«Экономическая история Англии в связи с экономической теорией»",
     "year": "1897",
-    "imageUrl": ""
+    "images": [
+      "./images/image738.png",
+      "./images/image739.png"
+    ]
   },
   {
     "title": "Эспинас Альфред ",
     "author": "«Социальная жизнь животных»",
     "year": "1882",
-    "imageUrl": ""
+    "images": [
+      "./images/image740.png",
+      "./images/image741.png"
+    ]
   },
   {
     "title": "Якушкин И. Д.",
     "author": " «Записки»",
     "year": "1908",
-    "imageUrl": ""
+    "images": [
+      "./images/image742.png",
+      "./images/image743.png"
+    ]
   }
 ]

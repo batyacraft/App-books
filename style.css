@@ -21,6 +21,117 @@ h1 {
     color: #1a1a2e;
 }
 
+/* ===== КНОПКА "ДОБАВИТЬ КНИГУ" ===== */
+.show-add-btn {
+    background: #4a6cf7;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.2s, transform 0.1s;
+    margin-bottom: 20px;
+    width: 100%;
+    font-weight: 600;
+}
+
+.show-add-btn:hover {
+    background: #3458d6;
+}
+
+.show-add-btn:active {
+    transform: scale(0.97);
+}
+
+/* ===== ФОРМА ДОБАВЛЕНИЯ ===== */
+.add-form {
+    background: white;
+    padding: 16px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    margin-bottom: 20px;
+}
+
+.add-form h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #1a1a2e;
+}
+
+.form-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 8px;
+}
+
+.form-row input {
+    flex: 1;
+    min-width: 120px;
+    padding: 10px 12px;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    font-size: 14px;
+    outline: none;
+}
+
+.form-row input:focus {
+    border-color: #4a6cf7;
+}
+
+.form-row input[type="file"] {
+    flex: 1;
+    padding: 8px 12px;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    font-size: 14px;
+    background: white;
+}
+
+#addBtn {
+    background: #4a6cf7;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background 0.2s;
+    flex: 1;
+    min-width: 100px;
+}
+
+#addBtn:hover {
+    background: #3458d6;
+}
+
+#addBtn:active {
+    transform: scale(0.95);
+}
+
+.cancel-btn {
+    background: #ef5350;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background 0.2s;
+    flex: 1;
+    min-width: 100px;
+}
+
+.cancel-btn:hover {
+    background: #c62828;
+}
+
+.cancel-btn:active {
+    transform: scale(0.95);
+}
+
+/* ===== КОНТРОЛЫ ===== */
 .controls {
     display: flex;
     flex-wrap: wrap;
@@ -50,6 +161,7 @@ h1 {
     border-color: #4a6cf7;
 }
 
+/* ===== КАРТОЧКИ КНИГ ===== */
 #bookList {
     display: flex;
     flex-direction: column;
@@ -113,6 +225,7 @@ h1 {
     transform: scale(0.95);
 }
 
+/* ===== МОДАЛКА ===== */
 .modal {
     display: none;
     position: fixed;
@@ -196,39 +309,58 @@ h1 {
     margin: 4px 0;
 }
 
+/* ===== АДАПТИВ ===== */
 @media (max-width: 600px) {
     body {
         padding: 12px;
     }
+
     .controls {
         flex-direction: column;
     }
+
     .controls select {
         flex: 1;
     }
+
     .book-card {
         flex-direction: column;
         align-items: stretch;
         padding: 14px;
     }
+
     .book-actions {
         text-align: right;
     }
+
     .modal-body {
         flex-direction: column;
         text-align: center;
     }
+
     .modal-images {
         flex-direction: row;
         flex-wrap: wrap;
         justify-content: center;
     }
+
     .modal-image {
         width: 100px;
         height: 140px;
     }
+
     .modal-content {
         padding: 16px;
         margin: 10px;
+    }
+
+    .form-row input {
+        min-width: 100%;
+    }
+
+    #addBtn,
+    .cancel-btn {
+        flex: 1;
+        min-width: 80px;
     }
 }

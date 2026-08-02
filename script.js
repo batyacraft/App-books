@@ -1,13 +1,17 @@
 let books = [];
 
-fetch('books.json')
-    .then(res => res.json())
+// ===== ЗАГРУЗКА КНИГ С СЕРВЕРА =====
+fetch('/api/books')
+    .then(res => {
+        if (!res.ok) throw new Error('Ошибка загрузки');
+        return res.json();
+    })
     .then(data => {
         books = data;
         render(books);
     })
     .catch(() => {
-        document.getElementById('bookList').innerHTML = '<p>❌ Не загрузились данные</p>';
+        document.getElementById('bookList').innerHTML = '<p style="text-align:center;color:#ef5350;padding:20px;">❌ Не удалось загрузить книги</p>';
     });
 
 // ===== СОРТИРОВКА =====
@@ -74,14 +78,14 @@ function render(list) {
     });
 }
 
-// ===== ОТКРЫТИЕ МОДАЛКИ С МАССИВОМ ИЗОБРАЖЕНИЙ =====
-function openModal(book) { 
+// ===== ОТКРЫТИЕ МОДАЛКИ =====
+function openModal(book) {
     document.getElementById('modalTitle').textContent = book.title || '—';
     document.getElementById('modalAuthor').textContent = book.author || '—';
     document.getElementById('modalCount').textContent = book.count || '?';
-    document.getElementById('modalPay').textContent = book.pay || '?';  
-    document.getElementById('modalShelf').textContent = book.shelf || '?'; 
-    document.getElementById('modalWardrobe').textContent = book.wardrobe || '?'; 
+    document.getElementById('modalPay').textContent = book.pay || '?';
+    document.getElementById('modalShelf').textContent = book.shelf || '?';
+    document.getElementById('modalWardrobe').textContent = book.wardrobe || '?';
     document.getElementById('modalYear').textContent = book.year || '—';
 
     const container = document.getElementById('modalImages');
@@ -124,3 +128,108 @@ function update() {
 
 document.getElementById('search').addEventListener('input', update);
 document.getElementById('sort').addEventListener('change', update);
+
+// ===== ПОКАЗАТЬ / СКРЫТЬ ФОРМУ =====
+document.getElementById('showAddBtn').addEventListener('click', () => {
+    document.getElementById('addForm').style.display = 'block';
+    document.getElementById('showAddBtn').style.display = 'none';
+});
+
+document.getElementById('cancelAddBtn').addEventListener('click', () => {
+    document.getElementById('addForm').style.display = 'none';
+    document.getElementById('showAddBtn').style.display = 'block';
+    // Очищаем поля
+    document.getElementById('newTitle').value = '';
+    document.getElementById('newAuthor').value = '';
+    document.getElementById('newYear').value = '';
+    document.getElementById('newCount').value = '';
+    document.getElementById('newPay').value = '';
+    document.getElementById('newShelf').value = '';
+    document.getElementById('newWardrobe').value = '';
+    document.getElementById('newImage').value = '';
+});
+
+// ===== ДОБАВЛЕНИЕ НОВОЙ КНИГИ =====
+function addBook() {
+    const title = document.getElementById('newTitle').value.trim();
+    const author = document.getElementById('newAuthor').value.trim();
+    const year = document.getElementById('newYear').value.trim();
+    const count = document.getElementById('newCount').value.trim();
+    const pay = document.getElementById('newPay').value.trim();
+    const shelf = document.getElementById('newShelf').value.trim();
+    const wardrobe = document.getElementById('newWardrobe').value.trim();
+    const fileInput = document.getElementById('newImage');
+    const file = fileInput.files[0];
+
+    if (!title || !author) {
+        alert('⚠️ Название и автор обязательны!');
+        return;
+    }
+
+    const bookData = {
+        title, author, year, count, pay, shelf, wardrobe,
+        images: []
+    };
+
+    if (file) {
+        const reader = new FileReader();
+        reader.onload = function(e) {
+            bookData.images = [e.target.result];
+            sendBook(bookData);
+        };
+        reader.readAsDataURL(file);
+    } else {
+        sendBook(bookData);
+    }
+}
+
+function sendBook(newBook) {
+    fetch('/api/books', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(newBook)
+    })
+    .then(res => {
+        if (!res.ok) throw new Error('Ошибка сервера');
+        return res.json();
+    })
+    .then(updatedBooks => {
+        books = updatedBooks;
+        update();
+
+        // Очищаем поля и скрываем форму
+        document.getElementById('newTitle').value = '';
+        document.getElementById('newAuthor').value = '';
+        document.getElementById('newYear').value = '';
+        document.getElementById('newCount').value = '';
+        document.getElementById('newPay').value = '';
+        document.getElementById('newShelf').value = '';
+        document.getElementById('newWardrobe').value = '';
+        document.getElementById('newImage').value = '';
+        document.getElementById('addForm').style.display = 'none';
+        document.getElementById('showAddBtn').style.display = 'block';
+
+        const btn = document.getElementById('addBtn');
+        const originalText = btn.textContent;
+        btn.textContent = '✅ Добавлено!';
+        btn.style.background = '#66bb6a';
+        setTimeout(() => {
+            btn.textContent = originalText;
+            btn.style.background = '#4a6cf7';
+        }, 2000);
+    })
+    .catch(err => {
+        alert('❌ Ошибка при добавлении книги: ' + err.message);
+        console.error(err);
+    });
+}
+
+document.getElementById('addBtn').addEventListener('click', addBook);
+
+document.querySelectorAll('#newTitle, #newAuthor, #newYear, #newCount, #newPay, #newShelf, #newWardrobe').forEach(input => {
+    input.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') {
+            addBook();
+        }
+    });
+});
